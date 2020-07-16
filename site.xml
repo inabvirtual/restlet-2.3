@@ -1,0 +1,2847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+<feature url="features/org.restlet.ext.emf_2.3.12.v20171002-1310.jar" id="org.restlet.ext.emf" version="2.3.12.v20171002-1310">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.servlet_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.servlet" version="2.3.0.rc1-v20141121-2130">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.odata_2.3.5.v20151003-1559.jar" id="org.restlet.ext.odata" version="2.3.5.v20151003-1559">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxrs_2.3.1.v20150203-1110.jar" id="org.restlet.ext.jaxrs" version="2.3.1.v20150203-1110">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.rdf_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.rdf" version="2.3.0.m3-v20140918-1543">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.xdb_2.3.0.v20141217-1730.jar" id="org.restlet.ext.xdb" version="2.3.0.v20141217-1730">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xdb_2.3.4.v20150716-1217.jar" id="org.restlet.ext.xdb" version="2.3.4.v20150716-1217">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.sip_2.3.7.v20160314-1810.jar" id="org.restlet.ext.sip" version="2.3.7.v20160314-1810">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxrs_2.3.12.v20171002-1310.jar" id="org.restlet.ext.jaxrs" version="2.3.12.v20171002-1310">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.lucene_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.lucene" version="2.3.0.m2-v20140506-1156">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.openid_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.openid" version="2.3.0.rc1-v20141121-2130">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxrs_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.jaxrs" version="2.3.0.rc1-v20141121-2130">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.rome_2.3.5.v20151003-1559.jar" id="org.restlet.ext.rome" version="2.3.5.v20151003-1559">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.sip_2.3.9.v20161220-1054.jar" id="org.restlet.ext.sip" version="2.3.9.v20161220-1054">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jackson_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.jackson" version="2.3.0.rc2-v20141208-1748">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.atom_2.3.5.v20151003-1559.jar" id="org.restlet.ext.atom" version="2.3.5.v20151003-1559">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.xml_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.xml" version="2.3.0.m5-v20141107-1655">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxb_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.jaxb" version="2.3.0.m1-v20140327-1722">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jetty_2.3.11.v20170928-2348.jar" id="org.restlet.ext.jetty" version="2.3.11.v20170928-2348">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.jibx_2.3.7.v20160314-1810.jar" id="org.restlet.ext.jibx" version="2.3.7.v20160314-1810">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xml_2.3.5.v20151003-1559.jar" id="org.restlet.ext.xml" version="2.3.5.v20151003-1559">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet_2.3.6.v20160126-1627.jar" id="org.restlet" version="2.3.6.v20160126-1627">
+   <category name="core"/>
+</feature>
+<feature url="features/org.restlet.ext.lucene_2.3.1.v20150203-1110.jar" id="org.restlet.ext.lucene" version="2.3.1.v20150203-1110">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.thymeleaf_2.3.11.v20170928-2348.jar" id="org.restlet.ext.thymeleaf" version="2.3.11.v20170928-2348">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jetty_2.3.7.v20160314-1810.jar" id="org.restlet.ext.jetty" version="2.3.7.v20160314-1810">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.openid_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.openid" version="2.3.0.m1-v20140327-1722">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jibx_2.3.6.v20160126-1627.jar" id="org.restlet.ext.jibx" version="2.3.6.v20160126-1627">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.swagger_2.3.0.v20141217-1730.jar" id="org.restlet.ext.swagger" version="2.3.0.v20141217-1730">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.thymeleaf_2.3.2.v20150501-1520.jar" id="org.restlet.ext.thymeleaf" version="2.3.2.v20150501-1520">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jibx_2.3.0.v20141217-1730.jar" id="org.restlet.ext.jibx" version="2.3.0.v20141217-1730">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.rome_2.3.12.v20171002-1310.jar" id="org.restlet.ext.rome" version="2.3.12.v20171002-1310">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.rdf_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.rdf" version="2.3.0.m1-v20140327-1722">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jaas_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.jaas" version="2.3.0.m4-v20141031-1938">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.velocity_2.3.9.v20161220-1054.jar" id="org.restlet.ext.velocity" version="2.3.9.v20161220-1054">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jaas_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.jaas" version="2.3.0.m5-v20141107-1655">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.atom_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.atom" version="2.3.0.m2-v20140506-1156">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.xml_2.3.8.v20161211-0729.jar" id="org.restlet.ext.xml" version="2.3.8.v20161211-0729">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.servlet_2.3.1.v20150203-1110.jar" id="org.restlet.ext.servlet" version="2.3.1.v20150203-1110">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.rdf_2.3.7.v20160314-1810.jar" id="org.restlet.ext.rdf" version="2.3.7.v20160314-1810">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.osgi_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.osgi" version="2.3.0.rc2-v20141208-1748">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jsslutils_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.jsslutils" version="2.3.0.m1-v20140327-1722">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.gwt_2.3.9.v20161220-1054.jar" id="org.restlet.ext.gwt" version="2.3.9.v20161220-1054">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.httpclient_2.3.1.v20150203-1110.jar" id="org.restlet.ext.httpclient" version="2.3.1.v20150203-1110">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.servlet_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.servlet" version="2.3.0.m5-v20141107-1655">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.apispark_2.3.0.v20141217-1730.jar" id="org.restlet.ext.apispark" version="2.3.0.v20141217-1730">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.simple_2.3.12.v20171002-1310.jar" id="org.restlet.ext.simple" version="2.3.12.v20171002-1310">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxrs_2.3.6.v20160126-1627.jar" id="org.restlet.ext.jaxrs" version="2.3.6.v20160126-1627">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.xdb_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.xdb" version="2.3.0.m1-v20140327-1722">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.spring_2.3.4.v20150716-1217.jar" id="org.restlet.ext.spring" version="2.3.4.v20150716-1217">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxrs_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.jaxrs" version="2.3.0.m5-v20141107-1655">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.example_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.example" version="2.3.0.rc2-v20141208-1748">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.emf_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.emf" version="2.3.0.snapshot-v20150625-1149">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.nio_2.3.11.v20170928-2348.jar" id="org.restlet.ext.nio" version="2.3.11.v20170928-2348">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.rome_2.3.6.v20160126-1627.jar" id="org.restlet.ext.rome" version="2.3.6.v20160126-1627">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.example_2.3.0.m5-v20141107-1655.jar" id="org.restlet.example" version="2.3.0.m5-v20141107-1655">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.jaas_2.3.8.v20161211-0729.jar" id="org.restlet.ext.jaas" version="2.3.8.v20161211-0729">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.nio_2.3.0.v20141217-1730.jar" id="org.restlet.ext.nio" version="2.3.0.v20141217-1730">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.osgi_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.osgi" version="2.3.0.m1-v20140327-1722">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.javamail_2.3.4.v20150716-1217.jar" id="org.restlet.ext.javamail" version="2.3.4.v20150716-1217">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.gwt_2.3.12.v20171002-1310.jar" id="org.restlet.ext.gwt" version="2.3.12.v20171002-1310">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.oauth_2.3.10.v20170528-1503.jar" id="org.restlet.ext.oauth" version="2.3.10.v20170528-1503">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxb_2.3.2.v20150501-1520.jar" id="org.restlet.ext.jaxb" version="2.3.2.v20150501-1520">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xdb_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.xdb" version="2.3.0.m5-v20141107-1655">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jsslutils_2.3.7.v20160314-1810.jar" id="org.restlet.ext.jsslutils" version="2.3.7.v20160314-1810">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.crypto_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.crypto" version="2.3.0.m5-v20141107-1655">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.odata_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.odata" version="2.3.0.m1-v20140327-1722">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.odata_2.3.8.v20161211-0729.jar" id="org.restlet.ext.odata" version="2.3.8.v20161211-0729">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.slf4j_2.3.5.v20151003-1559.jar" id="org.restlet.ext.slf4j" version="2.3.5.v20151003-1559">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.swagger_2.3.6.v20160126-1627.jar" id="org.restlet.ext.swagger" version="2.3.6.v20160126-1627">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.guice_2.3.9.v20161220-1054.jar" id="org.restlet.ext.guice" version="2.3.9.v20161220-1054">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.raml_2.3.10.v20170528-1503.jar" id="org.restlet.ext.raml" version="2.3.10.v20170528-1503">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.jibx_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.jibx" version="2.3.0.m5-v20141107-1655">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jibx_2.3.4.v20150716-1217.jar" id="org.restlet.ext.jibx" version="2.3.4.v20150716-1217">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jetty_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.jetty" version="2.3.0.rc1-v20141121-2130">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.swagger_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.swagger" version="2.3.0.m1-v20140327-1722">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.wadl_2.3.10.v20170528-1503.jar" id="org.restlet.ext.wadl" version="2.3.10.v20170528-1503">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.simple_2.3.10.v20170528-1503.jar" id="org.restlet.ext.simple" version="2.3.10.v20170528-1503">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.rome_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.rome" version="2.3.0.m4-v20141031-1938">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.gson_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.gson" version="2.3.0.m4-v20141031-1938">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.crypto_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.crypto" version="2.3.0.rc1-v20141121-2130">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.oauth_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.oauth" version="2.3.0.snapshot-v20150625-1149">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.atom_2.3.7.v20160314-1810.jar" id="org.restlet.ext.atom" version="2.3.7.v20160314-1810">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.slf4j_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.slf4j" version="2.3.0.rc1-v20141121-2130">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxrs_2.3.5.v20151003-1559.jar" id="org.restlet.ext.jaxrs" version="2.3.5.v20151003-1559">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.json_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.json" version="2.3.0.rc2-v20141208-1748">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.xml_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.xml" version="2.3.0.m2-v20140506-1156">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.raml_2.3.1.v20150203-1110.jar" id="org.restlet.ext.raml" version="2.3.1.v20150203-1110">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.gwt_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.gwt" version="2.3.0.m4-v20141031-1938">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.sip_2.3.12.v20171002-1310.jar" id="org.restlet.ext.sip" version="2.3.12.v20171002-1310">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.xstream_2.3.7.v20160314-1810.jar" id="org.restlet.ext.xstream" version="2.3.7.v20160314-1810">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xdb_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.xdb" version="2.3.0.m3-v20140918-1543">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.atom_2.3.4.v20150716-1217.jar" id="org.restlet.ext.atom" version="2.3.4.v20150716-1217">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.osgi_2.3.12.v20171002-1310.jar" id="org.restlet.ext.osgi" version="2.3.12.v20171002-1310">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.apispark_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.apispark" version="2.3.0.rc2-v20141208-1748">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.osgi_2.3.10.v20170528-1503.jar" id="org.restlet.ext.osgi" version="2.3.10.v20170528-1503">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.xdb_2.3.10.v20170528-1503.jar" id="org.restlet.ext.xdb" version="2.3.10.v20170528-1503">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xml_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.xml" version="2.3.0.m3-v20140918-1543">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.sdc_2.3.8.v20161211-0729.jar" id="org.restlet.ext.sdc" version="2.3.8.v20161211-0729">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.javamail_2.3.7.v20160314-1810.jar" id="org.restlet.ext.javamail" version="2.3.7.v20160314-1810">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.nio_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.nio" version="2.3.0.snapshot-v20150625-1149">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.spring_2.3.3.v20150621-0841.jar" id="org.restlet.ext.spring" version="2.3.3.v20150621-0841">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.openid_2.3.12.v20171002-1310.jar" id="org.restlet.ext.openid" version="2.3.12.v20171002-1310">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.xstream_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.xstream" version="2.3.0.m1-v20140327-1722">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.html_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.html" version="2.3.0.m2-v20140506-1156">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.xdb_2.3.12.v20171002-1310.jar" id="org.restlet.ext.xdb" version="2.3.12.v20171002-1310">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.fileupload_2.3.0.v20141217-1730.jar" id="org.restlet.ext.fileupload" version="2.3.0.v20141217-1730">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxb_2.3.8.v20161211-0729.jar" id="org.restlet.ext.jaxb" version="2.3.8.v20161211-0729">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet_2.3.5.v20151003-1559.jar" id="org.restlet" version="2.3.5.v20151003-1559">
+   <category name="core"/>
+</feature>
+<feature url="features/org.restlet.ext.slf4j_2.3.4.v20150716-1217.jar" id="org.restlet.ext.slf4j" version="2.3.4.v20150716-1217">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.osgi_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.osgi" version="2.3.0.m4-v20141031-1938">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.slf4j_2.3.6.v20160126-1627.jar" id="org.restlet.ext.slf4j" version="2.3.6.v20160126-1627">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.rdf_2.3.11.v20170928-2348.jar" id="org.restlet.ext.rdf" version="2.3.11.v20170928-2348">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.velocity_2.3.1.v20150203-1110.jar" id="org.restlet.ext.velocity" version="2.3.1.v20150203-1110">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.slf4j_2.3.1.v20150203-1110.jar" id="org.restlet.ext.slf4j" version="2.3.1.v20150203-1110">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jaas_2.3.0.v20141217-1730.jar" id="org.restlet.ext.jaas" version="2.3.0.v20141217-1730">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.example_2.3.6.v20160126-1627.jar" id="org.restlet.example" version="2.3.6.v20160126-1627">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.servlet_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.servlet" version="2.3.0.m2-v20140506-1156">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.freemarker_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.freemarker" version="2.3.0.m5-v20141107-1655">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.nio_2.3.2.v20150501-1520.jar" id="org.restlet.ext.nio" version="2.3.2.v20150501-1520">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.emf_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.emf" version="2.3.0.rc1-v20141121-2130">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.oauth_2.3.1.v20150203-1110.jar" id="org.restlet.ext.oauth" version="2.3.1.v20150203-1110">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.odata_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.odata" version="2.3.0.snapshot-v20150625-1149">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jsslutils_2.3.12.v20171002-1310.jar" id="org.restlet.ext.jsslutils" version="2.3.12.v20171002-1310">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.fileupload_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.fileupload" version="2.3.0.m1-v20140327-1722">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.emf_2.3.6.v20160126-1627.jar" id="org.restlet.ext.emf" version="2.3.6.v20160126-1627">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.html_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.html" version="2.3.0.m1-v20140327-1722">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.xml_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.xml" version="2.3.0.m4-v20141031-1938">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.spring_2.3.2.v20150501-1520.jar" id="org.restlet.ext.spring" version="2.3.2.v20150501-1520">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.odata_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.odata" version="2.3.0.m3-v20140918-1543">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.lucene_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.lucene" version="2.3.0.m4-v20141031-1938">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.crypto_2.3.1.v20150203-1110.jar" id="org.restlet.ext.crypto" version="2.3.1.v20150203-1110">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.lucene_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.lucene" version="2.3.0.m3-v20140918-1543">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.simple_2.3.0.v20141217-1730.jar" id="org.restlet.ext.simple" version="2.3.0.v20141217-1730">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.servlet_2.3.5.v20151003-1559.jar" id="org.restlet.ext.servlet" version="2.3.5.v20151003-1559">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet_2.3.0.m1-v20140327-1722.jar" id="org.restlet" version="2.3.0.m1-v20140327-1722">
+   <category name="core"/>
+</feature>
+<feature url="features/org.restlet.ext.crypto_2.3.12.v20171002-1310.jar" id="org.restlet.ext.crypto" version="2.3.12.v20171002-1310">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.spring_2.3.0.v20141217-1730.jar" id="org.restlet.ext.spring" version="2.3.0.v20141217-1730">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.odata_2.3.0.v20141217-1730.jar" id="org.restlet.ext.odata" version="2.3.0.v20141217-1730">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.javamail_2.3.3.v20150621-0841.jar" id="org.restlet.ext.javamail" version="2.3.3.v20150621-0841">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.raml_2.3.7.v20160314-1810.jar" id="org.restlet.ext.raml" version="2.3.7.v20160314-1810">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.oauth_2.3.4.v20150716-1217.jar" id="org.restlet.ext.oauth" version="2.3.4.v20150716-1217">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.raml_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.raml" version="2.3.0.snapshot-v20150625-1149">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.wadl_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.wadl" version="2.3.0.rc2-v20141208-1748">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.example_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.example" version="2.3.0.snapshot-v20150625-1149">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.fileupload_2.3.3.v20150621-0841.jar" id="org.restlet.ext.fileupload" version="2.3.3.v20150621-0841">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet_2.3.0.m4-v20141031-1938.jar" id="org.restlet" version="2.3.0.m4-v20141031-1938">
+   <category name="core"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxrs_2.3.8.v20161211-0729.jar" id="org.restlet.ext.jaxrs" version="2.3.8.v20161211-0729">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.httpclient_2.3.6.v20160126-1627.jar" id="org.restlet.ext.httpclient" version="2.3.6.v20160126-1627">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.servlet_2.3.9.v20161220-1054.jar" id="org.restlet.ext.servlet" version="2.3.9.v20161220-1054">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.e4_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.e4" version="2.3.0.m5-v20141107-1655">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.sdc_2.3.11.v20170928-2348.jar" id="org.restlet.ext.sdc" version="2.3.11.v20170928-2348">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.velocity_2.3.8.v20161211-0729.jar" id="org.restlet.ext.velocity" version="2.3.8.v20161211-0729">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.simple_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.simple" version="2.3.0.m3-v20140918-1543">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.jsslutils_2.3.11.v20170928-2348.jar" id="org.restlet.ext.jsslutils" version="2.3.11.v20170928-2348">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.httpclient_2.3.4.v20150716-1217.jar" id="org.restlet.ext.httpclient" version="2.3.4.v20150716-1217">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.wadl_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.wadl" version="2.3.0.snapshot-v20150625-1149">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.nio_2.3.8.v20161211-0729.jar" id="org.restlet.ext.nio" version="2.3.8.v20161211-0729">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.fileupload_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.fileupload" version="2.3.0.rc2-v20141208-1748">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.spring_2.3.6.v20160126-1627.jar" id="org.restlet.ext.spring" version="2.3.6.v20160126-1627">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.emf_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.emf" version="2.3.0.m1-v20140327-1722">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.thymeleaf_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.thymeleaf" version="2.3.0.m4-v20141031-1938">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.thymeleaf_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.thymeleaf" version="2.3.0.m3-v20140918-1543">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jaas_2.3.4.v20150716-1217.jar" id="org.restlet.ext.jaas" version="2.3.4.v20150716-1217">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jetty_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.jetty" version="2.3.0.m4-v20141031-1938">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.simple_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.simple" version="2.3.0.m5-v20141107-1655">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.jsslutils_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.jsslutils" version="2.3.0.m4-v20141031-1938">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.gson_2.3.7.v20160314-1810.jar" id="org.restlet.ext.gson" version="2.3.7.v20160314-1810">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.example_2.3.11.v20170928-2348.jar" id="org.restlet.example" version="2.3.11.v20170928-2348">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.osgi_2.3.7.v20160314-1810.jar" id="org.restlet.ext.osgi" version="2.3.7.v20160314-1810">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.lucene_2.3.3.v20150621-0841.jar" id="org.restlet.ext.lucene" version="2.3.3.v20150621-0841">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xstream_2.3.8.v20161211-0729.jar" id="org.restlet.ext.xstream" version="2.3.8.v20161211-0729">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet" version="2.3.0.snapshot-v20150625-1149">
+   <category name="core"/>
+</feature>
+<feature url="features/org.restlet.ext.jetty_2.3.3.v20150621-0841.jar" id="org.restlet.ext.jetty" version="2.3.3.v20150621-0841">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.jackson_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.jackson" version="2.3.0.m2-v20140506-1156">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxb_2.3.9.v20161220-1054.jar" id="org.restlet.ext.jaxb" version="2.3.9.v20161220-1054">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.simple_2.3.2.v20150501-1520.jar" id="org.restlet.ext.simple" version="2.3.2.v20150501-1520">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.apispark_2.3.7.v20160314-1810.jar" id="org.restlet.ext.apispark" version="2.3.7.v20160314-1810">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.httpclient_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.httpclient" version="2.3.0.snapshot-v20150625-1149">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.jackson_2.3.7.v20160314-1810.jar" id="org.restlet.ext.jackson" version="2.3.7.v20160314-1810">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.freemarker_2.3.5.v20151003-1559.jar" id="org.restlet.ext.freemarker" version="2.3.5.v20151003-1559">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.velocity_2.3.12.v20171002-1310.jar" id="org.restlet.ext.velocity" version="2.3.12.v20171002-1310">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.gson_2.3.10.v20170528-1503.jar" id="org.restlet.ext.gson" version="2.3.10.v20170528-1503">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.atom_2.3.1.v20150203-1110.jar" id="org.restlet.ext.atom" version="2.3.1.v20150203-1110">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jetty_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.jetty" version="2.3.0.snapshot-v20150625-1149">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.guice_2.3.3.v20150621-0841.jar" id="org.restlet.ext.guice" version="2.3.3.v20150621-0841">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.xml_2.3.7.v20160314-1810.jar" id="org.restlet.ext.xml" version="2.3.7.v20160314-1810">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jackson_2.3.11.v20170928-2348.jar" id="org.restlet.ext.jackson" version="2.3.11.v20170928-2348">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xstream_2.3.12.v20171002-1310.jar" id="org.restlet.ext.xstream" version="2.3.12.v20171002-1310">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.thymeleaf_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.thymeleaf" version="2.3.0.m1-v20140327-1722">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jibx_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.jibx" version="2.3.0.rc2-v20141208-1748">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jsslutils_2.3.3.v20150621-0841.jar" id="org.restlet.ext.jsslutils" version="2.3.3.v20150621-0841">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.gson_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.gson" version="2.3.0.snapshot-v20150625-1149">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.rdf_2.3.3.v20150621-0841.jar" id="org.restlet.ext.rdf" version="2.3.3.v20150621-0841">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.thymeleaf_2.3.9.v20161220-1054.jar" id="org.restlet.ext.thymeleaf" version="2.3.9.v20161220-1054">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.sip_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.sip" version="2.3.0.rc1-v20141121-2130">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.freemarker_2.3.12.v20171002-1310.jar" id="org.restlet.ext.freemarker" version="2.3.12.v20171002-1310">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xml_2.3.2.v20150501-1520.jar" id="org.restlet.ext.xml" version="2.3.2.v20150501-1520">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.javamail_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.javamail" version="2.3.0.m1-v20140327-1722">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.xstream_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.xstream" version="2.3.0.m5-v20141107-1655">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.sdc_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.sdc" version="2.3.0.m3-v20140918-1543">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.servlet_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.servlet" version="2.3.0.snapshot-v20150625-1149">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.rdf_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.rdf" version="2.3.0.m4-v20141031-1938">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.guice_2.3.8.v20161211-0729.jar" id="org.restlet.ext.guice" version="2.3.8.v20161211-0729">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.openid_2.3.8.v20161211-0729.jar" id="org.restlet.ext.openid" version="2.3.8.v20161211-0729">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.slf4j_2.3.10.v20170528-1503.jar" id="org.restlet.ext.slf4j" version="2.3.10.v20170528-1503">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.gwt_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.gwt" version="2.3.0.m3-v20140918-1543">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jsslutils_2.3.4.v20150716-1217.jar" id="org.restlet.ext.jsslutils" version="2.3.4.v20150716-1217">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.gson_2.3.11.v20170928-2348.jar" id="org.restlet.ext.gson" version="2.3.11.v20170928-2348">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.odata_2.3.2.v20150501-1520.jar" id="org.restlet.ext.odata" version="2.3.2.v20150501-1520">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.rome_2.3.9.v20161220-1054.jar" id="org.restlet.ext.rome" version="2.3.9.v20161220-1054">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.gwt_2.3.10.v20170528-1503.jar" id="org.restlet.ext.gwt" version="2.3.10.v20170528-1503">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.lucene_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.lucene" version="2.3.0.rc2-v20141208-1748">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xdb_2.3.3.v20150621-0841.jar" id="org.restlet.ext.xdb" version="2.3.3.v20150621-0841">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.spring_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.spring" version="2.3.0.snapshot-v20150625-1149">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.sip_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.sip" version="2.3.0.snapshot-v20150625-1149">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.atom_2.3.0.v20141217-1730.jar" id="org.restlet.ext.atom" version="2.3.0.v20141217-1730">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.xml_2.3.4.v20150716-1217.jar" id="org.restlet.ext.xml" version="2.3.4.v20150716-1217">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.atom_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.atom" version="2.3.0.snapshot-v20150625-1149">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.wadl_2.3.7.v20160314-1810.jar" id="org.restlet.ext.wadl" version="2.3.7.v20160314-1810">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.atom_2.3.10.v20170528-1503.jar" id="org.restlet.ext.atom" version="2.3.10.v20170528-1503">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.openid_2.3.2.v20150501-1520.jar" id="org.restlet.ext.openid" version="2.3.2.v20150501-1520">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jsslutils_2.3.9.v20161220-1054.jar" id="org.restlet.ext.jsslutils" version="2.3.9.v20161220-1054">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxb_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.jaxb" version="2.3.0.m5-v20141107-1655">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.wadl_2.3.11.v20170928-2348.jar" id="org.restlet.ext.wadl" version="2.3.11.v20170928-2348">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.json_2.3.10.v20170528-1503.jar" id="org.restlet.ext.json" version="2.3.10.v20170528-1503">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.guice_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.guice" version="2.3.0.m4-v20141031-1938">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.crypto_2.3.8.v20161211-0729.jar" id="org.restlet.ext.crypto" version="2.3.8.v20161211-0729">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.fileupload_2.3.11.v20170928-2348.jar" id="org.restlet.ext.fileupload" version="2.3.11.v20170928-2348">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.simple_2.3.11.v20170928-2348.jar" id="org.restlet.ext.simple" version="2.3.11.v20170928-2348">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.swagger_2.3.2.v20150501-1520.jar" id="org.restlet.ext.swagger" version="2.3.2.v20150501-1520">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.e4_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.e4" version="2.3.0.rc1-v20141121-2130">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jaas_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.jaas" version="2.3.0.m1-v20140327-1722">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.freemarker_2.3.11.v20170928-2348.jar" id="org.restlet.ext.freemarker" version="2.3.11.v20170928-2348">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxb_2.3.3.v20150621-0841.jar" id="org.restlet.ext.jaxb" version="2.3.3.v20150621-0841">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.apispark_2.3.1.v20150203-1110.jar" id="org.restlet.ext.apispark" version="2.3.1.v20150203-1110">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.slf4j_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.slf4j" version="2.3.0.m2-v20140506-1156">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.lucene_2.3.9.v20161220-1054.jar" id="org.restlet.ext.lucene" version="2.3.9.v20161220-1054">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.httpclient_2.3.8.v20161211-0729.jar" id="org.restlet.ext.httpclient" version="2.3.8.v20161211-0729">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxrs_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.jaxrs" version="2.3.0.snapshot-v20150625-1149">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.wadl_2.3.8.v20161211-0729.jar" id="org.restlet.ext.wadl" version="2.3.8.v20161211-0729">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.crypto_2.3.7.v20160314-1810.jar" id="org.restlet.ext.crypto" version="2.3.7.v20160314-1810">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jackson_2.3.0.v20141217-1730.jar" id="org.restlet.ext.jackson" version="2.3.0.v20141217-1730">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.sip_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.sip" version="2.3.0.m3-v20140918-1543">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.example_2.3.10.v20170528-1503.jar" id="org.restlet.example" version="2.3.10.v20170528-1503">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.nio_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.nio" version="2.3.0.m5-v20141107-1655">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.sip_2.3.10.v20170528-1503.jar" id="org.restlet.ext.sip" version="2.3.10.v20170528-1503">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.velocity_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.velocity" version="2.3.0.m3-v20140918-1543">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.crypto_2.3.5.v20151003-1559.jar" id="org.restlet.ext.crypto" version="2.3.5.v20151003-1559">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.slf4j_2.3.2.v20150501-1520.jar" id="org.restlet.ext.slf4j" version="2.3.2.v20150501-1520">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet_2.3.9.v20161220-1054.jar" id="org.restlet" version="2.3.9.v20161220-1054">
+   <category name="core"/>
+</feature>
+<feature url="features/org.restlet.ext.odata_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.odata" version="2.3.0.m2-v20140506-1156">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.slf4j_2.3.12.v20171002-1310.jar" id="org.restlet.ext.slf4j" version="2.3.12.v20171002-1310">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xstream_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.xstream" version="2.3.0.m2-v20140506-1156">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.velocity_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.velocity" version="2.3.0.rc1-v20141121-2130">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet_2.3.0.rc1-v20141121-2130.jar" id="org.restlet" version="2.3.0.rc1-v20141121-2130">
+   <category name="core"/>
+</feature>
+<feature url="features/org.restlet.ext.sdc_2.3.6.v20160126-1627.jar" id="org.restlet.ext.sdc" version="2.3.6.v20160126-1627">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.httpclient_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.httpclient" version="2.3.0.m3-v20140918-1543">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.crypto_2.3.6.v20160126-1627.jar" id="org.restlet.ext.crypto" version="2.3.6.v20160126-1627">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.wadl_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.wadl" version="2.3.0.m1-v20140327-1722">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.html_2.3.4.v20150716-1217.jar" id="org.restlet.ext.html" version="2.3.4.v20150716-1217">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.json_2.3.0.v20141217-1730.jar" id="org.restlet.ext.json" version="2.3.0.v20141217-1730">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.example_2.3.7.v20160314-1810.jar" id="org.restlet.example" version="2.3.7.v20160314-1810">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.freemarker_2.3.9.v20161220-1054.jar" id="org.restlet.ext.freemarker" version="2.3.9.v20161220-1054">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.freemarker_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.freemarker" version="2.3.0.rc2-v20141208-1748">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxb_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.jaxb" version="2.3.0.rc2-v20141208-1748">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xml_2.3.3.v20150621-0841.jar" id="org.restlet.ext.xml" version="2.3.3.v20150621-0841">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jsslutils_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.jsslutils" version="2.3.0.rc1-v20141121-2130">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.wadl_2.3.9.v20161220-1054.jar" id="org.restlet.ext.wadl" version="2.3.9.v20161220-1054">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet_2.3.0.m5-v20141107-1655.jar" id="org.restlet" version="2.3.0.m5-v20141107-1655">
+   <category name="core"/>
+</feature>
+<feature url="features/org.restlet.ext.oauth_2.3.12.v20171002-1310.jar" id="org.restlet.ext.oauth" version="2.3.12.v20171002-1310">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.fileupload_2.3.1.v20150203-1110.jar" id="org.restlet.ext.fileupload" version="2.3.1.v20150203-1110">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jaas_2.3.7.v20160314-1810.jar" id="org.restlet.ext.jaas" version="2.3.7.v20160314-1810">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.gson_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.gson" version="2.3.0.m1-v20140327-1722">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.slf4j_2.3.11.v20170928-2348.jar" id="org.restlet.ext.slf4j" version="2.3.11.v20170928-2348">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.e4_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.e4" version="2.3.0.m3-v20140918-1543">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.xml_2.3.6.v20160126-1627.jar" id="org.restlet.ext.xml" version="2.3.6.v20160126-1627">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.xdb_2.3.11.v20170928-2348.jar" id="org.restlet.ext.xdb" version="2.3.11.v20170928-2348">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.apispark_2.3.3.v20150621-0841.jar" id="org.restlet.ext.apispark" version="2.3.3.v20150621-0841">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.xdb_2.3.2.v20150501-1520.jar" id="org.restlet.ext.xdb" version="2.3.2.v20150501-1520">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.fileupload_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.fileupload" version="2.3.0.m2-v20140506-1156">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xstream_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.xstream" version="2.3.0.rc2-v20141208-1748">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.raml_2.3.12.v20171002-1310.jar" id="org.restlet.ext.raml" version="2.3.12.v20171002-1310">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.gwt_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.gwt" version="2.3.0.rc1-v20141121-2130">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jsslutils_2.3.0.v20141217-1730.jar" id="org.restlet.ext.jsslutils" version="2.3.0.v20141217-1730">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxb_2.3.6.v20160126-1627.jar" id="org.restlet.ext.jaxb" version="2.3.6.v20160126-1627">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.gson_2.3.12.v20171002-1310.jar" id="org.restlet.ext.gson" version="2.3.12.v20171002-1310">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.slf4j_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.slf4j" version="2.3.0.m5-v20141107-1655">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.apispark_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.apispark" version="2.3.0.m1-v20140327-1722">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.apispark_2.3.9.v20161220-1054.jar" id="org.restlet.ext.apispark" version="2.3.9.v20161220-1054">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.xdb_2.3.9.v20161220-1054.jar" id="org.restlet.ext.xdb" version="2.3.9.v20161220-1054">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.freemarker_2.3.8.v20161211-0729.jar" id="org.restlet.ext.freemarker" version="2.3.8.v20161211-0729">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.httpclient_2.3.2.v20150501-1520.jar" id="org.restlet.ext.httpclient" version="2.3.2.v20150501-1520">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.guice_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.guice" version="2.3.0.m2-v20140506-1156">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.spring_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.spring" version="2.3.0.m2-v20140506-1156">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.servlet_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.servlet" version="2.3.0.m1-v20140327-1722">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.jackson_2.3.6.v20160126-1627.jar" id="org.restlet.ext.jackson" version="2.3.6.v20160126-1627">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xstream_2.3.9.v20161220-1054.jar" id="org.restlet.ext.xstream" version="2.3.9.v20161220-1054">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.wadl_2.3.12.v20171002-1310.jar" id="org.restlet.ext.wadl" version="2.3.12.v20171002-1310">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.servlet_2.3.11.v20170928-2348.jar" id="org.restlet.ext.servlet" version="2.3.11.v20170928-2348">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.example_2.3.8.v20161211-0729.jar" id="org.restlet.example" version="2.3.8.v20161211-0729">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.javamail_2.3.10.v20170528-1503.jar" id="org.restlet.ext.javamail" version="2.3.10.v20170528-1503">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.simple_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.simple" version="2.3.0.rc1-v20141121-2130">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.raml_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.raml" version="2.3.0.rc2-v20141208-1748">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.xdb_2.3.1.v20150203-1110.jar" id="org.restlet.ext.xdb" version="2.3.1.v20150203-1110">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xstream_2.3.0.v20141217-1730.jar" id="org.restlet.ext.xstream" version="2.3.0.v20141217-1730">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxb_2.3.4.v20150716-1217.jar" id="org.restlet.ext.jaxb" version="2.3.4.v20150716-1217">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jackson_2.3.12.v20171002-1310.jar" id="org.restlet.ext.jackson" version="2.3.12.v20171002-1310">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.velocity_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.velocity" version="2.3.0.m4-v20141031-1938">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xdb_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.xdb" version="2.3.0.snapshot-v20150625-1149">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jackson_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.jackson" version="2.3.0.m4-v20141031-1938">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.rome_2.3.8.v20161211-0729.jar" id="org.restlet.ext.rome" version="2.3.8.v20161211-0729">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.gson_2.3.0.v20141217-1730.jar" id="org.restlet.ext.gson" version="2.3.0.v20141217-1730">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.guice_2.3.12.v20171002-1310.jar" id="org.restlet.ext.guice" version="2.3.12.v20171002-1310">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.osgi_2.3.3.v20150621-0841.jar" id="org.restlet.ext.osgi" version="2.3.3.v20150621-0841">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.httpclient_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.httpclient" version="2.3.0.m5-v20141107-1655">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.openid_2.3.0.v20141217-1730.jar" id="org.restlet.ext.openid" version="2.3.0.v20141217-1730">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.gwt_2.3.11.v20170928-2348.jar" id="org.restlet.ext.gwt" version="2.3.11.v20170928-2348">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.servlet_2.3.2.v20150501-1520.jar" id="org.restlet.ext.servlet" version="2.3.2.v20150501-1520">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.spring_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.spring" version="2.3.0.m5-v20141107-1655">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.oauth_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.oauth" version="2.3.0.rc2-v20141208-1748">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.lucene_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.lucene" version="2.3.0.m1-v20140327-1722">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.httpclient_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.httpclient" version="2.3.0.m4-v20141031-1938">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.jibx_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.jibx" version="2.3.0.rc1-v20141121-2130">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.guice_2.3.2.v20150501-1520.jar" id="org.restlet.ext.guice" version="2.3.2.v20150501-1520">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.emf_2.3.4.v20150716-1217.jar" id="org.restlet.ext.emf" version="2.3.4.v20150716-1217">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.rdf_2.3.10.v20170528-1503.jar" id="org.restlet.ext.rdf" version="2.3.10.v20170528-1503">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.spring_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.spring" version="2.3.0.rc2-v20141208-1748">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.simple_2.3.8.v20161211-0729.jar" id="org.restlet.ext.simple" version="2.3.8.v20161211-0729">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.osgi_2.3.8.v20161211-0729.jar" id="org.restlet.ext.osgi" version="2.3.8.v20161211-0729">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.velocity_2.3.5.v20151003-1559.jar" id="org.restlet.ext.velocity" version="2.3.5.v20151003-1559">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.wadl_2.3.0.v20141217-1730.jar" id="org.restlet.ext.wadl" version="2.3.0.v20141217-1730">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.javamail_2.3.0.v20141217-1730.jar" id="org.restlet.ext.javamail" version="2.3.0.v20141217-1730">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.odata_2.3.4.v20150716-1217.jar" id="org.restlet.ext.odata" version="2.3.4.v20150716-1217">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.json_2.3.7.v20160314-1810.jar" id="org.restlet.ext.json" version="2.3.7.v20160314-1810">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.raml_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.raml" version="2.3.0.m5-v20141107-1655">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.rome_2.3.10.v20170528-1503.jar" id="org.restlet.ext.rome" version="2.3.10.v20170528-1503">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.oauth_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.oauth" version="2.3.0.m5-v20141107-1655">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.gwt_2.3.1.v20150203-1110.jar" id="org.restlet.ext.gwt" version="2.3.1.v20150203-1110">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.sdc_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.sdc" version="2.3.0.m5-v20141107-1655">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.rome_2.3.1.v20150203-1110.jar" id="org.restlet.ext.rome" version="2.3.1.v20150203-1110">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.example_2.3.0.m1-v20140327-1722.jar" id="org.restlet.example" version="2.3.0.m1-v20140327-1722">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.example_2.3.0.v20141217-1730.jar" id="org.restlet.example" version="2.3.0.v20141217-1730">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.freemarker_2.3.1.v20150203-1110.jar" id="org.restlet.ext.freemarker" version="2.3.1.v20150203-1110">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.httpclient_2.3.10.v20170528-1503.jar" id="org.restlet.ext.httpclient" version="2.3.10.v20170528-1503">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.guice_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.guice" version="2.3.0.m1-v20140327-1722">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.thymeleaf_2.3.3.v20150621-0841.jar" id="org.restlet.ext.thymeleaf" version="2.3.3.v20150621-0841">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.crypto_2.3.9.v20161220-1054.jar" id="org.restlet.ext.crypto" version="2.3.9.v20161220-1054">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.spring_2.3.7.v20160314-1810.jar" id="org.restlet.ext.spring" version="2.3.7.v20160314-1810">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxb_2.3.10.v20170528-1503.jar" id="org.restlet.ext.jaxb" version="2.3.10.v20170528-1503">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.wadl_2.3.3.v20150621-0841.jar" id="org.restlet.ext.wadl" version="2.3.3.v20150621-0841">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.simple_2.3.3.v20150621-0841.jar" id="org.restlet.ext.simple" version="2.3.3.v20150621-0841">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.html_2.3.2.v20150501-1520.jar" id="org.restlet.ext.html" version="2.3.2.v20150501-1520">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.lucene_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.lucene" version="2.3.0.m5-v20141107-1655">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.rdf_2.3.0.v20141217-1730.jar" id="org.restlet.ext.rdf" version="2.3.0.v20141217-1730">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jsslutils_2.3.5.v20151003-1559.jar" id="org.restlet.ext.jsslutils" version="2.3.5.v20151003-1559">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.velocity_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.velocity" version="2.3.0.m1-v20140327-1722">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.e4_2.3.11.v20170928-2348.jar" id="org.restlet.ext.e4" version="2.3.11.v20170928-2348">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.gwt_2.3.0.v20141217-1730.jar" id="org.restlet.ext.gwt" version="2.3.0.v20141217-1730">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.gson_2.3.6.v20160126-1627.jar" id="org.restlet.ext.gson" version="2.3.6.v20160126-1627">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.httpclient_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.httpclient" version="2.3.0.m1-v20140327-1722">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.guice_2.3.1.v20150203-1110.jar" id="org.restlet.ext.guice" version="2.3.1.v20150203-1110">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.openid_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.openid" version="2.3.0.m2-v20140506-1156">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.xdb_2.3.6.v20160126-1627.jar" id="org.restlet.ext.xdb" version="2.3.6.v20160126-1627">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jaas_2.3.1.v20150203-1110.jar" id="org.restlet.ext.jaas" version="2.3.1.v20150203-1110">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet_2.3.2.v20150501-1520.jar" id="org.restlet" version="2.3.2.v20150501-1520">
+   <category name="core"/>
+</feature>
+<feature url="features/org.restlet.ext.jsslutils_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.jsslutils" version="2.3.0.m3-v20140918-1543">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.swagger_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.swagger" version="2.3.0.snapshot-v20150625-1149">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.e4_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.e4" version="2.3.0.m1-v20140327-1722">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.openid_2.3.11.v20170928-2348.jar" id="org.restlet.ext.openid" version="2.3.11.v20170928-2348">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.osgi_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.osgi" version="2.3.0.m3-v20140918-1543">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.html_2.3.7.v20160314-1810.jar" id="org.restlet.ext.html" version="2.3.7.v20160314-1810">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.html_2.3.6.v20160126-1627.jar" id="org.restlet.ext.html" version="2.3.6.v20160126-1627">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.apispark_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.apispark" version="2.3.0.snapshot-v20150625-1149">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.velocity_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.velocity" version="2.3.0.m2-v20140506-1156">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.fileupload_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.fileupload" version="2.3.0.m5-v20141107-1655">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jaas_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.jaas" version="2.3.0.rc2-v20141208-1748">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.thymeleaf_2.3.5.v20151003-1559.jar" id="org.restlet.ext.thymeleaf" version="2.3.5.v20151003-1559">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.lucene_2.3.2.v20150501-1520.jar" id="org.restlet.ext.lucene" version="2.3.2.v20150501-1520">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jsslutils_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.jsslutils" version="2.3.0.m2-v20140506-1156">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.javamail_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.javamail" version="2.3.0.m4-v20141031-1938">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.guice_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.guice" version="2.3.0.m3-v20140918-1543">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.html_2.3.8.v20161211-0729.jar" id="org.restlet.ext.html" version="2.3.8.v20161211-0729">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.lucene_2.3.10.v20170528-1503.jar" id="org.restlet.ext.lucene" version="2.3.10.v20170528-1503">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jaas_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.jaas" version="2.3.0.m2-v20140506-1156">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.servlet_2.3.7.v20160314-1810.jar" id="org.restlet.ext.servlet" version="2.3.7.v20160314-1810">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.sdc_2.3.3.v20150621-0841.jar" id="org.restlet.ext.sdc" version="2.3.3.v20150621-0841">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.atom_2.3.2.v20150501-1520.jar" id="org.restlet.ext.atom" version="2.3.2.v20150501-1520">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxb_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.jaxb" version="2.3.0.m3-v20140918-1543">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.emf_2.3.3.v20150621-0841.jar" id="org.restlet.ext.emf" version="2.3.3.v20150621-0841">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.sdc_2.3.9.v20161220-1054.jar" id="org.restlet.ext.sdc" version="2.3.9.v20161220-1054">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.apispark_2.3.4.v20150716-1217.jar" id="org.restlet.ext.apispark" version="2.3.4.v20150716-1217">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.freemarker_2.3.0.v20141217-1730.jar" id="org.restlet.ext.freemarker" version="2.3.0.v20141217-1730">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.atom_2.3.6.v20160126-1627.jar" id="org.restlet.ext.atom" version="2.3.6.v20160126-1627">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.swagger_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.swagger" version="2.3.0.m3-v20140918-1543">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.raml_2.3.5.v20151003-1559.jar" id="org.restlet.ext.raml" version="2.3.5.v20151003-1559">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.simple_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.simple" version="2.3.0.m4-v20141031-1938">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.javamail_2.3.9.v20161220-1054.jar" id="org.restlet.ext.javamail" version="2.3.9.v20161220-1054">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.jibx_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.jibx" version="2.3.0.m1-v20140327-1722">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xml_2.3.10.v20170528-1503.jar" id="org.restlet.ext.xml" version="2.3.10.v20170528-1503">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.gwt_2.3.5.v20151003-1559.jar" id="org.restlet.ext.gwt" version="2.3.5.v20151003-1559">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.velocity_2.3.10.v20170528-1503.jar" id="org.restlet.ext.velocity" version="2.3.10.v20170528-1503">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.httpclient_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.httpclient" version="2.3.0.rc2-v20141208-1748">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.xml_2.3.12.v20171002-1310.jar" id="org.restlet.ext.xml" version="2.3.12.v20171002-1310">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.nio_2.3.7.v20160314-1810.jar" id="org.restlet.ext.nio" version="2.3.7.v20160314-1810">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.gson_2.3.5.v20151003-1559.jar" id="org.restlet.ext.gson" version="2.3.5.v20151003-1559">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.velocity_2.3.11.v20170928-2348.jar" id="org.restlet.ext.velocity" version="2.3.11.v20170928-2348">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.gwt_2.3.4.v20150716-1217.jar" id="org.restlet.ext.gwt" version="2.3.4.v20150716-1217">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jsslutils_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.jsslutils" version="2.3.0.rc2-v20141208-1748">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.xdb_2.3.7.v20160314-1810.jar" id="org.restlet.ext.xdb" version="2.3.7.v20160314-1810">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxrs_2.3.10.v20170528-1503.jar" id="org.restlet.ext.jaxrs" version="2.3.10.v20170528-1503">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.odata_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.odata" version="2.3.0.m5-v20141107-1655">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.thymeleaf_2.3.1.v20150203-1110.jar" id="org.restlet.ext.thymeleaf" version="2.3.1.v20150203-1110">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.spring_2.3.9.v20161220-1054.jar" id="org.restlet.ext.spring" version="2.3.9.v20161220-1054">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.atom_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.atom" version="2.3.0.rc2-v20141208-1748">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.sip_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.sip" version="2.3.0.m2-v20140506-1156">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jetty_2.3.5.v20151003-1559.jar" id="org.restlet.ext.jetty" version="2.3.5.v20151003-1559">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.gwt_2.3.2.v20150501-1520.jar" id="org.restlet.ext.gwt" version="2.3.2.v20150501-1520">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet_2.3.7.v20160314-1810.jar" id="org.restlet" version="2.3.7.v20160314-1810">
+   <category name="core"/>
+</feature>
+<feature url="features/org.restlet.ext.crypto_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.crypto" version="2.3.0.snapshot-v20150625-1149">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jetty_2.3.12.v20171002-1310.jar" id="org.restlet.ext.jetty" version="2.3.12.v20171002-1310">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.gson_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.gson" version="2.3.0.m5-v20141107-1655">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.gson_2.3.2.v20150501-1520.jar" id="org.restlet.ext.gson" version="2.3.2.v20150501-1520">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xml_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.xml" version="2.3.0.m1-v20140327-1722">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.sip_2.3.5.v20151003-1559.jar" id="org.restlet.ext.sip" version="2.3.5.v20151003-1559">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.html_2.3.12.v20171002-1310.jar" id="org.restlet.ext.html" version="2.3.12.v20171002-1310">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.emf_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.emf" version="2.3.0.m3-v20140918-1543">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.spring_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.spring" version="2.3.0.m3-v20140918-1543">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.e4_2.3.3.v20150621-0841.jar" id="org.restlet.ext.e4" version="2.3.3.v20150621-0841">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.simple_2.3.5.v20151003-1559.jar" id="org.restlet.ext.simple" version="2.3.5.v20151003-1559">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.osgi_2.3.0.v20141217-1730.jar" id="org.restlet.ext.osgi" version="2.3.0.v20141217-1730">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.example_2.3.3.v20150621-0841.jar" id="org.restlet.example" version="2.3.3.v20150621-0841">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.openid_2.3.3.v20150621-0841.jar" id="org.restlet.ext.openid" version="2.3.3.v20150621-0841">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.freemarker_2.3.7.v20160314-1810.jar" id="org.restlet.ext.freemarker" version="2.3.7.v20160314-1810">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.wadl_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.wadl" version="2.3.0.m4-v20141031-1938">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jibx_2.3.5.v20151003-1559.jar" id="org.restlet.ext.jibx" version="2.3.5.v20151003-1559">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.json_2.3.6.v20160126-1627.jar" id="org.restlet.ext.json" version="2.3.6.v20160126-1627">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.spring_2.3.1.v20150203-1110.jar" id="org.restlet.ext.spring" version="2.3.1.v20150203-1110">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.sip_2.3.8.v20161211-0729.jar" id="org.restlet.ext.sip" version="2.3.8.v20161211-0729">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.apispark_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.apispark" version="2.3.0.m5-v20141107-1655">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet_2.3.4.v20150716-1217.jar" id="org.restlet" version="2.3.4.v20150716-1217">
+   <category name="core"/>
+</feature>
+<feature url="features/org.restlet.ext.sdc_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.sdc" version="2.3.0.snapshot-v20150625-1149">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.nio_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.nio" version="2.3.0.m2-v20140506-1156">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.jetty_2.3.2.v20150501-1520.jar" id="org.restlet.ext.jetty" version="2.3.2.v20150501-1520">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.jaas_2.3.3.v20150621-0841.jar" id="org.restlet.ext.jaas" version="2.3.3.v20150621-0841">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.lucene_2.3.7.v20160314-1810.jar" id="org.restlet.ext.lucene" version="2.3.7.v20160314-1810">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.swagger_2.3.7.v20160314-1810.jar" id="org.restlet.ext.swagger" version="2.3.7.v20160314-1810">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xml_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.xml" version="2.3.0.snapshot-v20150625-1149">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.odata_2.3.12.v20171002-1310.jar" id="org.restlet.ext.odata" version="2.3.12.v20171002-1310">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.example_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.example" version="2.3.0.rc1-v20141121-2130">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.osgi_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.osgi" version="2.3.0.m2-v20140506-1156">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jetty_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.jetty" version="2.3.0.m5-v20141107-1655">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.emf_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.emf" version="2.3.0.m4-v20141031-1938">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.guice_2.3.0.v20141217-1730.jar" id="org.restlet.ext.guice" version="2.3.0.v20141217-1730">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.xdb_2.3.8.v20161211-0729.jar" id="org.restlet.ext.xdb" version="2.3.8.v20161211-0729">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.thymeleaf_2.3.8.v20161211-0729.jar" id="org.restlet.ext.thymeleaf" version="2.3.8.v20161211-0729">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet_2.3.0.m3-v20140918-1543.jar" id="org.restlet" version="2.3.0.m3-v20140918-1543">
+   <category name="core"/>
+</feature>
+<feature url="features/org.restlet.ext.sdc_2.3.7.v20160314-1810.jar" id="org.restlet.ext.sdc" version="2.3.7.v20160314-1810">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.odata_2.3.6.v20160126-1627.jar" id="org.restlet.ext.odata" version="2.3.6.v20160126-1627">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.xml_2.3.0.v20141217-1730.jar" id="org.restlet.ext.xml" version="2.3.0.v20141217-1730">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jetty_2.3.9.v20161220-1054.jar" id="org.restlet.ext.jetty" version="2.3.9.v20161220-1054">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.oauth_2.3.0.v20141217-1730.jar" id="org.restlet.ext.oauth" version="2.3.0.v20141217-1730">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.velocity_2.3.3.v20150621-0841.jar" id="org.restlet.ext.velocity" version="2.3.3.v20150621-0841">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.rome_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.rome" version="2.3.0.m1-v20140327-1722">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jaas_2.3.6.v20160126-1627.jar" id="org.restlet.ext.jaas" version="2.3.6.v20160126-1627">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jetty_2.3.0.v20141217-1730.jar" id="org.restlet.ext.jetty" version="2.3.0.v20141217-1730">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.jibx_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.jibx" version="2.3.0.m4-v20141031-1938">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.crypto_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.crypto" version="2.3.0.m4-v20141031-1938">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jibx_2.3.3.v20150621-0841.jar" id="org.restlet.ext.jibx" version="2.3.3.v20150621-0841">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.atom_2.3.3.v20150621-0841.jar" id="org.restlet.ext.atom" version="2.3.3.v20150621-0841">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.freemarker_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.freemarker" version="2.3.0.rc1-v20141121-2130">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.osgi_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.osgi" version="2.3.0.rc1-v20141121-2130">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jaas_2.3.2.v20150501-1520.jar" id="org.restlet.ext.jaas" version="2.3.2.v20150501-1520">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.slf4j_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.slf4j" version="2.3.0.m3-v20140918-1543">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jsslutils_2.3.8.v20161211-0729.jar" id="org.restlet.ext.jsslutils" version="2.3.8.v20161211-0729">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.httpclient_2.3.7.v20160314-1810.jar" id="org.restlet.ext.httpclient" version="2.3.7.v20160314-1810">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.odata_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.odata" version="2.3.0.rc1-v20141121-2130">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxrs_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.jaxrs" version="2.3.0.m2-v20140506-1156">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jaas_2.3.12.v20171002-1310.jar" id="org.restlet.ext.jaas" version="2.3.12.v20171002-1310">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.apispark_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.apispark" version="2.3.0.rc1-v20141121-2130">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.xstream_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.xstream" version="2.3.0.m3-v20140918-1543">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.httpclient_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.httpclient" version="2.3.0.m2-v20140506-1156">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.spring_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.spring" version="2.3.0.rc1-v20141121-2130">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jsslutils_2.3.10.v20170528-1503.jar" id="org.restlet.ext.jsslutils" version="2.3.10.v20170528-1503">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.apispark_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.apispark" version="2.3.0.m2-v20140506-1156">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.gwt_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.gwt" version="2.3.0.m2-v20140506-1156">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jibx_2.3.8.v20161211-0729.jar" id="org.restlet.ext.jibx" version="2.3.8.v20161211-0729">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.slf4j_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.slf4j" version="2.3.0.snapshot-v20150625-1149">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.fileupload_2.3.8.v20161211-0729.jar" id="org.restlet.ext.fileupload" version="2.3.8.v20161211-0729">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.nio_2.3.10.v20170528-1503.jar" id="org.restlet.ext.nio" version="2.3.10.v20170528-1503">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.freemarker_2.3.2.v20150501-1520.jar" id="org.restlet.ext.freemarker" version="2.3.2.v20150501-1520">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.rdf_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.rdf" version="2.3.0.rc1-v20141121-2130">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.rdf_2.3.2.v20150501-1520.jar" id="org.restlet.ext.rdf" version="2.3.2.v20150501-1520">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.rome_2.3.4.v20150716-1217.jar" id="org.restlet.ext.rome" version="2.3.4.v20150716-1217">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xdb_2.3.5.v20151003-1559.jar" id="org.restlet.ext.xdb" version="2.3.5.v20151003-1559">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jsslutils_2.3.1.v20150203-1110.jar" id="org.restlet.ext.jsslutils" version="2.3.1.v20150203-1110">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.raml_2.3.8.v20161211-0729.jar" id="org.restlet.ext.raml" version="2.3.8.v20161211-0729">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.emf_2.3.7.v20160314-1810.jar" id="org.restlet.ext.emf" version="2.3.7.v20160314-1810">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.sdc_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.sdc" version="2.3.0.m4-v20141031-1938">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.servlet_2.3.10.v20170528-1503.jar" id="org.restlet.ext.servlet" version="2.3.10.v20170528-1503">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.oauth_2.3.2.v20150501-1520.jar" id="org.restlet.ext.oauth" version="2.3.2.v20150501-1520">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.atom_2.3.9.v20161220-1054.jar" id="org.restlet.ext.atom" version="2.3.9.v20161220-1054">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jetty_2.3.1.v20150203-1110.jar" id="org.restlet.ext.jetty" version="2.3.1.v20150203-1110">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.raml_2.3.3.v20150621-0841.jar" id="org.restlet.ext.raml" version="2.3.3.v20150621-0841">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.freemarker_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.freemarker" version="2.3.0.m3-v20140918-1543">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xdb_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.xdb" version="2.3.0.rc2-v20141208-1748">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet_2.3.10.v20170528-1503.jar" id="org.restlet" version="2.3.10.v20170528-1503">
+   <category name="core"/>
+</feature>
+<feature url="features/org.restlet.ext.swagger_2.3.5.v20151003-1559.jar" id="org.restlet.ext.swagger" version="2.3.5.v20151003-1559">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.freemarker_2.3.6.v20160126-1627.jar" id="org.restlet.ext.freemarker" version="2.3.6.v20160126-1627">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jsslutils_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.jsslutils" version="2.3.0.snapshot-v20150625-1149">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.nio_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.nio" version="2.3.0.m3-v20140918-1543">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.example_2.3.0.m4-v20141031-1938.jar" id="org.restlet.example" version="2.3.0.m4-v20141031-1938">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.velocity_2.3.7.v20160314-1810.jar" id="org.restlet.ext.velocity" version="2.3.7.v20160314-1810">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.javamail_2.3.1.v20150203-1110.jar" id="org.restlet.ext.javamail" version="2.3.1.v20150203-1110">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.lucene_2.3.0.v20141217-1730.jar" id="org.restlet.ext.lucene" version="2.3.0.v20141217-1730">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jaas_2.3.11.v20170928-2348.jar" id="org.restlet.ext.jaas" version="2.3.11.v20170928-2348">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.gwt_2.3.8.v20161211-0729.jar" id="org.restlet.ext.gwt" version="2.3.8.v20161211-0729">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.atom_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.atom" version="2.3.0.m3-v20140918-1543">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.spring_2.3.8.v20161211-0729.jar" id="org.restlet.ext.spring" version="2.3.8.v20161211-0729">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.velocity_2.3.2.v20150501-1520.jar" id="org.restlet.ext.velocity" version="2.3.2.v20150501-1520">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.rdf_2.3.1.v20150203-1110.jar" id="org.restlet.ext.rdf" version="2.3.1.v20150203-1110">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.swagger_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.swagger" version="2.3.0.m5-v20141107-1655">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.thymeleaf_2.3.0.v20141217-1730.jar" id="org.restlet.ext.thymeleaf" version="2.3.0.v20141217-1730">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.e4_2.3.4.v20150716-1217.jar" id="org.restlet.ext.e4" version="2.3.4.v20150716-1217">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.xdb_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.xdb" version="2.3.0.rc1-v20141121-2130">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.openid_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.openid" version="2.3.0.rc2-v20141208-1748">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.oauth_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.oauth" version="2.3.0.m2-v20140506-1156">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.freemarker_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.freemarker" version="2.3.0.m4-v20141031-1938">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.html_2.3.11.v20170928-2348.jar" id="org.restlet.ext.html" version="2.3.11.v20170928-2348">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.crypto_2.3.4.v20150716-1217.jar" id="org.restlet.ext.crypto" version="2.3.4.v20150716-1217">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet_2.3.0.m2-v20140506-1156.jar" id="org.restlet" version="2.3.0.m2-v20140506-1156">
+   <category name="core"/>
+</feature>
+<feature url="features/org.restlet.ext.spring_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.spring" version="2.3.0.m4-v20141031-1938">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.rdf_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.rdf" version="2.3.0.rc2-v20141208-1748">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.wadl_2.3.2.v20150501-1520.jar" id="org.restlet.ext.wadl" version="2.3.2.v20150501-1520">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.xstream_2.3.2.v20150501-1520.jar" id="org.restlet.ext.xstream" version="2.3.2.v20150501-1520">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.sip_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.sip" version="2.3.0.m4-v20141031-1938">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.simple_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.simple" version="2.3.0.snapshot-v20150625-1149">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.slf4j_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.slf4j" version="2.3.0.rc2-v20141208-1748">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.e4_2.3.12.v20171002-1310.jar" id="org.restlet.ext.e4" version="2.3.12.v20171002-1310">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.openid_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.openid" version="2.3.0.snapshot-v20150625-1149">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.oauth_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.oauth" version="2.3.0.m4-v20141031-1938">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxb_2.3.11.v20170928-2348.jar" id="org.restlet.ext.jaxb" version="2.3.11.v20170928-2348">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xml_2.3.11.v20170928-2348.jar" id="org.restlet.ext.xml" version="2.3.11.v20170928-2348">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.swagger_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.swagger" version="2.3.0.m4-v20141031-1938">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.fileupload_2.3.7.v20160314-1810.jar" id="org.restlet.ext.fileupload" version="2.3.7.v20160314-1810">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.rdf_2.3.12.v20171002-1310.jar" id="org.restlet.ext.rdf" version="2.3.12.v20171002-1310">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jetty_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.jetty" version="2.3.0.m3-v20140918-1543">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.velocity_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.velocity" version="2.3.0.snapshot-v20150625-1149">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xstream_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.xstream" version="2.3.0.snapshot-v20150625-1149">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.example_2.3.0.m2-v20140506-1156.jar" id="org.restlet.example" version="2.3.0.m2-v20140506-1156">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.javamail_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.javamail" version="2.3.0.rc2-v20141208-1748">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.httpclient_2.3.5.v20151003-1559.jar" id="org.restlet.ext.httpclient" version="2.3.5.v20151003-1559">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxrs_2.3.7.v20160314-1810.jar" id="org.restlet.ext.jaxrs" version="2.3.7.v20160314-1810">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.atom_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.atom" version="2.3.0.m4-v20141031-1938">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.raml_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.raml" version="2.3.0.m3-v20140918-1543">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.thymeleaf_2.3.7.v20160314-1810.jar" id="org.restlet.ext.thymeleaf" version="2.3.7.v20160314-1810">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jaas_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.jaas" version="2.3.0.rc1-v20141121-2130">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.rome_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.rome" version="2.3.0.rc1-v20141121-2130">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.guice_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.guice" version="2.3.0.m5-v20141107-1655">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.gwt_2.3.7.v20160314-1810.jar" id="org.restlet.ext.gwt" version="2.3.7.v20160314-1810">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.apispark_2.3.12.v20171002-1310.jar" id="org.restlet.ext.apispark" version="2.3.12.v20171002-1310">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.velocity_2.3.6.v20160126-1627.jar" id="org.restlet.ext.velocity" version="2.3.6.v20160126-1627">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.openid_2.3.6.v20160126-1627.jar" id="org.restlet.ext.openid" version="2.3.6.v20160126-1627">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.simple_2.3.1.v20150203-1110.jar" id="org.restlet.ext.simple" version="2.3.1.v20150203-1110">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.odata_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.odata" version="2.3.0.m4-v20141031-1938">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.openid_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.openid" version="2.3.0.m4-v20141031-1938">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.sip_2.3.0.v20141217-1730.jar" id="org.restlet.ext.sip" version="2.3.0.v20141217-1730">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.guice_2.3.6.v20160126-1627.jar" id="org.restlet.ext.guice" version="2.3.6.v20160126-1627">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.freemarker_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.freemarker" version="2.3.0.m1-v20140327-1722">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.apispark_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.apispark" version="2.3.0.m4-v20141031-1938">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.slf4j_2.3.3.v20150621-0841.jar" id="org.restlet.ext.slf4j" version="2.3.3.v20150621-0841">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.javamail_2.3.2.v20150501-1520.jar" id="org.restlet.ext.javamail" version="2.3.2.v20150501-1520">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.atom_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.atom" version="2.3.0.rc1-v20141121-2130">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.json_2.3.2.v20150501-1520.jar" id="org.restlet.ext.json" version="2.3.2.v20150501-1520">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.nio_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.nio" version="2.3.0.m4-v20141031-1938">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.guice_2.3.7.v20160314-1810.jar" id="org.restlet.ext.guice" version="2.3.7.v20160314-1810">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.apispark_2.3.6.v20160126-1627.jar" id="org.restlet.ext.apispark" version="2.3.6.v20160126-1627">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.jackson_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.jackson" version="2.3.0.m5-v20141107-1655">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.osgi_2.3.9.v20161220-1054.jar" id="org.restlet.ext.osgi" version="2.3.9.v20161220-1054">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.html_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.html" version="2.3.0.m3-v20140918-1543">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jaas_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.jaas" version="2.3.0.snapshot-v20150625-1149">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.atom_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.atom" version="2.3.0.m5-v20141107-1655">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.crypto_2.3.0.v20141217-1730.jar" id="org.restlet.ext.crypto" version="2.3.0.v20141217-1730">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jackson_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.jackson" version="2.3.0.m3-v20140918-1543">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.openid_2.3.1.v20150203-1110.jar" id="org.restlet.ext.openid" version="2.3.1.v20150203-1110">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.fileupload_2.3.4.v20150716-1217.jar" id="org.restlet.ext.fileupload" version="2.3.4.v20150716-1217">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.fileupload_2.3.9.v20161220-1054.jar" id="org.restlet.ext.fileupload" version="2.3.9.v20161220-1054">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.thymeleaf_2.3.6.v20160126-1627.jar" id="org.restlet.ext.thymeleaf" version="2.3.6.v20160126-1627">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.httpclient_2.3.9.v20161220-1054.jar" id="org.restlet.ext.httpclient" version="2.3.9.v20161220-1054">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.jetty_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.jetty" version="2.3.0.m1-v20140327-1722">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.emf_2.3.0.v20141217-1730.jar" id="org.restlet.ext.emf" version="2.3.0.v20141217-1730">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.nio_2.3.5.v20151003-1559.jar" id="org.restlet.ext.nio" version="2.3.5.v20151003-1559">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.wadl_2.3.1.v20150203-1110.jar" id="org.restlet.ext.wadl" version="2.3.1.v20150203-1110">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jackson_2.3.3.v20150621-0841.jar" id="org.restlet.ext.jackson" version="2.3.3.v20150621-0841">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xdb_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.xdb" version="2.3.0.m2-v20140506-1156">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet_2.3.0.v20141217-1730.jar" id="org.restlet" version="2.3.0.v20141217-1730">
+   <category name="core"/>
+</feature>
+<feature url="features/org.restlet.ext.swagger_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.swagger" version="2.3.0.rc1-v20141121-2130">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.crypto_2.3.11.v20170928-2348.jar" id="org.restlet.ext.crypto" version="2.3.11.v20170928-2348">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.fileupload_2.3.2.v20150501-1520.jar" id="org.restlet.ext.fileupload" version="2.3.2.v20150501-1520">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.swagger_2.3.9.v20161220-1054.jar" id="org.restlet.ext.swagger" version="2.3.9.v20161220-1054">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.gwt_2.3.6.v20160126-1627.jar" id="org.restlet.ext.gwt" version="2.3.6.v20160126-1627">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.servlet_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.servlet" version="2.3.0.m4-v20141031-1938">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.xstream_2.3.10.v20170528-1503.jar" id="org.restlet.ext.xstream" version="2.3.10.v20170528-1503">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.openid_2.3.10.v20170528-1503.jar" id="org.restlet.ext.openid" version="2.3.10.v20170528-1503">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.atom_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.atom" version="2.3.0.m1-v20140327-1722">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.gson_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.gson" version="2.3.0.m3-v20140918-1543">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xstream_2.3.1.v20150203-1110.jar" id="org.restlet.ext.xstream" version="2.3.1.v20150203-1110">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.emf_2.3.2.v20150501-1520.jar" id="org.restlet.ext.emf" version="2.3.2.v20150501-1520">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.example_2.3.4.v20150716-1217.jar" id="org.restlet.example" version="2.3.4.v20150716-1217">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.raml_2.3.9.v20161220-1054.jar" id="org.restlet.ext.raml" version="2.3.9.v20161220-1054">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.lucene_2.3.4.v20150716-1217.jar" id="org.restlet.ext.lucene" version="2.3.4.v20150716-1217">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.fileupload_2.3.6.v20160126-1627.jar" id="org.restlet.ext.fileupload" version="2.3.6.v20160126-1627">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.raml_2.3.11.v20170928-2348.jar" id="org.restlet.ext.raml" version="2.3.11.v20170928-2348">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.sip_2.3.1.v20150203-1110.jar" id="org.restlet.ext.sip" version="2.3.1.v20150203-1110">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxb_2.3.7.v20160314-1810.jar" id="org.restlet.ext.jaxb" version="2.3.7.v20160314-1810">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.e4_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.e4" version="2.3.0.rc2-v20141208-1748">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jaas_2.3.10.v20170528-1503.jar" id="org.restlet.ext.jaas" version="2.3.10.v20170528-1503">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.xstream_2.3.3.v20150621-0841.jar" id="org.restlet.ext.xstream" version="2.3.3.v20150621-0841">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.javamail_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.javamail" version="2.3.0.m2-v20140506-1156">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxrs_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.jaxrs" version="2.3.0.m4-v20141031-1938">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.fileupload_2.3.5.v20151003-1559.jar" id="org.restlet.ext.fileupload" version="2.3.5.v20151003-1559">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xstream_2.3.6.v20160126-1627.jar" id="org.restlet.ext.xstream" version="2.3.6.v20160126-1627">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.openid_2.3.7.v20160314-1810.jar" id="org.restlet.ext.openid" version="2.3.7.v20160314-1810">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.crypto_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.crypto" version="2.3.0.m2-v20140506-1156">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.e4_2.3.10.v20170528-1503.jar" id="org.restlet.ext.e4" version="2.3.10.v20170528-1503">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jibx_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.jibx" version="2.3.0.snapshot-v20150625-1149">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.slf4j_2.3.0.v20141217-1730.jar" id="org.restlet.ext.slf4j" version="2.3.0.v20141217-1730">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.rdf_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.rdf" version="2.3.0.snapshot-v20150625-1149">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.json_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.json" version="2.3.0.m3-v20140918-1543">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jsslutils_2.3.6.v20160126-1627.jar" id="org.restlet.ext.jsslutils" version="2.3.6.v20160126-1627">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.sip_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.sip" version="2.3.0.rc2-v20141208-1748">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.rdf_2.3.4.v20150716-1217.jar" id="org.restlet.ext.rdf" version="2.3.4.v20150716-1217">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.osgi_2.3.11.v20170928-2348.jar" id="org.restlet.ext.osgi" version="2.3.11.v20170928-2348">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.emf_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.emf" version="2.3.0.m2-v20140506-1156">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.sdc_2.3.2.v20150501-1520.jar" id="org.restlet.ext.sdc" version="2.3.2.v20150501-1520">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.lucene_2.3.12.v20171002-1310.jar" id="org.restlet.ext.lucene" version="2.3.12.v20171002-1310">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.osgi_2.3.5.v20151003-1559.jar" id="org.restlet.ext.osgi" version="2.3.5.v20151003-1559">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.freemarker_2.3.4.v20150716-1217.jar" id="org.restlet.ext.freemarker" version="2.3.4.v20150716-1217">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.odata_2.3.7.v20160314-1810.jar" id="org.restlet.ext.odata" version="2.3.7.v20160314-1810">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.fileupload_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.fileupload" version="2.3.0.m4-v20141031-1938">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.json_2.3.11.v20170928-2348.jar" id="org.restlet.ext.json" version="2.3.11.v20170928-2348">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.javamail_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.javamail" version="2.3.0.rc1-v20141121-2130">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.thymeleaf_2.3.4.v20150716-1217.jar" id="org.restlet.ext.thymeleaf" version="2.3.4.v20150716-1217">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.velocity_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.velocity" version="2.3.0.rc2-v20141208-1748">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.e4_2.3.1.v20150203-1110.jar" id="org.restlet.ext.e4" version="2.3.1.v20150203-1110">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.crypto_2.3.3.v20150621-0841.jar" id="org.restlet.ext.crypto" version="2.3.3.v20150621-0841">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.lucene_2.3.5.v20151003-1559.jar" id="org.restlet.ext.lucene" version="2.3.5.v20151003-1559">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.odata_2.3.10.v20170528-1503.jar" id="org.restlet.ext.odata" version="2.3.10.v20170528-1503">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.servlet_2.3.0.v20141217-1730.jar" id="org.restlet.ext.servlet" version="2.3.0.v20141217-1730">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.servlet_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.servlet" version="2.3.0.m3-v20140918-1543">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.httpclient_2.3.0.v20141217-1730.jar" id="org.restlet.ext.httpclient" version="2.3.0.v20141217-1730">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.oauth_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.oauth" version="2.3.0.m1-v20140327-1722">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.lucene_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.lucene" version="2.3.0.rc1-v20141121-2130">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jetty_2.3.4.v20150716-1217.jar" id="org.restlet.ext.jetty" version="2.3.4.v20150716-1217">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.jackson_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.jackson" version="2.3.0.snapshot-v20150625-1149">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jackson_2.3.8.v20161211-0729.jar" id="org.restlet.ext.jackson" version="2.3.8.v20161211-0729">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.rome_2.3.0.v20141217-1730.jar" id="org.restlet.ext.rome" version="2.3.0.v20141217-1730">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.e4_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.e4" version="2.3.0.snapshot-v20150625-1149">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jackson_2.3.4.v20150716-1217.jar" id="org.restlet.ext.jackson" version="2.3.4.v20150716-1217">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.e4_2.3.5.v20151003-1559.jar" id="org.restlet.ext.e4" version="2.3.5.v20151003-1559">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.velocity_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.velocity" version="2.3.0.m5-v20141107-1655">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.sip_2.3.3.v20150621-0841.jar" id="org.restlet.ext.sip" version="2.3.3.v20150621-0841">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.guice_2.3.5.v20151003-1559.jar" id="org.restlet.ext.guice" version="2.3.5.v20151003-1559">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.gwt_2.3.3.v20150621-0841.jar" id="org.restlet.ext.gwt" version="2.3.3.v20150621-0841">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.swagger_2.3.1.v20150203-1110.jar" id="org.restlet.ext.swagger" version="2.3.1.v20150203-1110">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.e4_2.3.8.v20161211-0729.jar" id="org.restlet.ext.e4" version="2.3.8.v20161211-0729">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.oauth_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.oauth" version="2.3.0.rc1-v20141121-2130">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet_2.3.8.v20161211-0729.jar" id="org.restlet" version="2.3.8.v20161211-0729">
+   <category name="core"/>
+</feature>
+<feature url="features/org.restlet.ext.freemarker_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.freemarker" version="2.3.0.snapshot-v20150625-1149">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.sdc_2.3.0.v20141217-1730.jar" id="org.restlet.ext.sdc" version="2.3.0.v20141217-1730">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.servlet_2.3.4.v20150716-1217.jar" id="org.restlet.ext.servlet" version="2.3.4.v20150716-1217">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.slf4j_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.slf4j" version="2.3.0.m4-v20141031-1938">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.html_2.3.9.v20161220-1054.jar" id="org.restlet.ext.html" version="2.3.9.v20161220-1054">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxrs_2.3.11.v20170928-2348.jar" id="org.restlet.ext.jaxrs" version="2.3.11.v20170928-2348">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.thymeleaf_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.thymeleaf" version="2.3.0.rc1-v20141121-2130">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.oauth_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.oauth" version="2.3.0.m3-v20140918-1543">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.json_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.json" version="2.3.0.m2-v20140506-1156">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.javamail_2.3.5.v20151003-1559.jar" id="org.restlet.ext.javamail" version="2.3.5.v20151003-1559">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.nio_2.3.6.v20160126-1627.jar" id="org.restlet.ext.nio" version="2.3.6.v20160126-1627">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.example_2.3.0.m3-v20140918-1543.jar" id="org.restlet.example" version="2.3.0.m3-v20140918-1543">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxrs_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.jaxrs" version="2.3.0.m1-v20140327-1722">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.oauth_2.3.11.v20170928-2348.jar" id="org.restlet.ext.oauth" version="2.3.11.v20170928-2348">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.swagger_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.swagger" version="2.3.0.rc2-v20141208-1748">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.rdf_2.3.6.v20160126-1627.jar" id="org.restlet.ext.rdf" version="2.3.6.v20160126-1627">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.html_2.3.0.v20141217-1730.jar" id="org.restlet.ext.html" version="2.3.0.v20141217-1730">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.sip_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.sip" version="2.3.0.m1-v20140327-1722">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.html_2.3.5.v20151003-1559.jar" id="org.restlet.ext.html" version="2.3.5.v20151003-1559">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.atom_2.3.11.v20170928-2348.jar" id="org.restlet.ext.atom" version="2.3.11.v20170928-2348">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jibx_2.3.2.v20150501-1520.jar" id="org.restlet.ext.jibx" version="2.3.2.v20150501-1520">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xml_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.xml" version="2.3.0.rc2-v20141208-1748">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.gson_2.3.1.v20150203-1110.jar" id="org.restlet.ext.gson" version="2.3.1.v20150203-1110">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.rome_2.3.11.v20170928-2348.jar" id="org.restlet.ext.rome" version="2.3.11.v20170928-2348">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxb_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.jaxb" version="2.3.0.rc1-v20141121-2130">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jackson_2.3.5.v20151003-1559.jar" id="org.restlet.ext.jackson" version="2.3.5.v20151003-1559">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.odata_2.3.9.v20161220-1054.jar" id="org.restlet.ext.odata" version="2.3.9.v20161220-1054">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet_2.3.0.rc2-v20141208-1748.jar" id="org.restlet" version="2.3.0.rc2-v20141208-1748">
+   <category name="core"/>
+</feature>
+<feature url="features/org.restlet.ext.rome_2.3.7.v20160314-1810.jar" id="org.restlet.ext.rome" version="2.3.7.v20160314-1810">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.rdf_2.3.5.v20151003-1559.jar" id="org.restlet.ext.rdf" version="2.3.5.v20151003-1559">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.oauth_2.3.9.v20161220-1054.jar" id="org.restlet.ext.oauth" version="2.3.9.v20161220-1054">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.wadl_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.wadl" version="2.3.0.rc1-v20141121-2130">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.e4_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.e4" version="2.3.0.m2-v20140506-1156">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.raml_2.3.6.v20160126-1627.jar" id="org.restlet.ext.raml" version="2.3.6.v20160126-1627">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.jetty_2.3.10.v20170528-1503.jar" id="org.restlet.ext.jetty" version="2.3.10.v20170528-1503">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.wadl_2.3.5.v20151003-1559.jar" id="org.restlet.ext.wadl" version="2.3.5.v20151003-1559">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.xml_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.xml" version="2.3.0.rc1-v20141121-2130">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxrs_2.3.3.v20150621-0841.jar" id="org.restlet.ext.jaxrs" version="2.3.3.v20150621-0841">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet_2.3.11.v20170928-2348.jar" id="org.restlet" version="2.3.11.v20170928-2348">
+   <category name="core"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxb_2.3.0.v20141217-1730.jar" id="org.restlet.ext.jaxb" version="2.3.0.v20141217-1730">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.slf4j_2.3.8.v20161211-0729.jar" id="org.restlet.ext.slf4j" version="2.3.8.v20161211-0729">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.json_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.json" version="2.3.0.m5-v20141107-1655">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jibx_2.3.10.v20170528-1503.jar" id="org.restlet.ext.jibx" version="2.3.10.v20170528-1503">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.servlet_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.servlet" version="2.3.0.rc2-v20141208-1748">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.gwt_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.gwt" version="2.3.0.m1-v20140327-1722">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.html_2.3.10.v20170528-1503.jar" id="org.restlet.ext.html" version="2.3.10.v20170528-1503">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.lucene_2.3.8.v20161211-0729.jar" id="org.restlet.ext.lucene" version="2.3.8.v20161211-0729">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.openid_2.3.5.v20151003-1559.jar" id="org.restlet.ext.openid" version="2.3.5.v20151003-1559">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.rome_2.3.2.v20150501-1520.jar" id="org.restlet.ext.rome" version="2.3.2.v20150501-1520">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.rome_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.rome" version="2.3.0.m2-v20140506-1156">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.nio_2.3.9.v20161220-1054.jar" id="org.restlet.ext.nio" version="2.3.9.v20161220-1054">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.osgi_2.3.1.v20150203-1110.jar" id="org.restlet.ext.osgi" version="2.3.1.v20150203-1110">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.emf_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.emf" version="2.3.0.rc2-v20141208-1748">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.json_2.3.1.v20150203-1110.jar" id="org.restlet.ext.json" version="2.3.1.v20150203-1110">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.rome_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.rome" version="2.3.0.m3-v20140918-1543">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.gwt_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.gwt" version="2.3.0.rc2-v20141208-1748">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.sdc_2.3.10.v20170528-1503.jar" id="org.restlet.ext.sdc" version="2.3.10.v20170528-1503">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.rdf_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.rdf" version="2.3.0.m2-v20140506-1156">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.spring_2.3.5.v20151003-1559.jar" id="org.restlet.ext.spring" version="2.3.5.v20151003-1559">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.example_2.3.9.v20161220-1054.jar" id="org.restlet.example" version="2.3.9.v20161220-1054">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.servlet_2.3.12.v20171002-1310.jar" id="org.restlet.ext.servlet" version="2.3.12.v20171002-1310">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.guice_2.3.10.v20170528-1503.jar" id="org.restlet.ext.guice" version="2.3.10.v20170528-1503">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet_2.3.1.v20150203-1110.jar" id="org.restlet" version="2.3.1.v20150203-1110">
+   <category name="core"/>
+</feature>
+<feature url="features/org.restlet.ext.fileupload_2.3.10.v20170528-1503.jar" id="org.restlet.ext.fileupload" version="2.3.10.v20170528-1503">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.wadl_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.wadl" version="2.3.0.m5-v20141107-1655">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.sip_2.3.11.v20170928-2348.jar" id="org.restlet.ext.sip" version="2.3.11.v20170928-2348">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.gson_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.gson" version="2.3.0.rc1-v20141121-2130">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.guice_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.guice" version="2.3.0.rc1-v20141121-2130">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.thymeleaf_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.thymeleaf" version="2.3.0.m2-v20140506-1156">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.raml_2.3.2.v20150501-1520.jar" id="org.restlet.ext.raml" version="2.3.2.v20150501-1520">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.gson_2.3.4.v20150716-1217.jar" id="org.restlet.ext.gson" version="2.3.4.v20150716-1217">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.velocity_2.3.0.v20141217-1730.jar" id="org.restlet.ext.velocity" version="2.3.0.v20141217-1730">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.crypto_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.crypto" version="2.3.0.rc2-v20141208-1748">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.spring_2.3.11.v20170928-2348.jar" id="org.restlet.ext.spring" version="2.3.11.v20170928-2348">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.nio_2.3.4.v20150716-1217.jar" id="org.restlet.ext.nio" version="2.3.4.v20150716-1217">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.httpclient_2.3.11.v20170928-2348.jar" id="org.restlet.ext.httpclient" version="2.3.11.v20170928-2348">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.javamail_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.javamail" version="2.3.0.m5-v20141107-1655">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.gwt_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.gwt" version="2.3.0.snapshot-v20150625-1149">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.thymeleaf_2.3.12.v20171002-1310.jar" id="org.restlet.ext.thymeleaf" version="2.3.12.v20171002-1310">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jibx_2.3.11.v20170928-2348.jar" id="org.restlet.ext.jibx" version="2.3.11.v20170928-2348">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.oauth_2.3.3.v20150621-0841.jar" id="org.restlet.ext.oauth" version="2.3.3.v20150621-0841">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.thymeleaf_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.thymeleaf" version="2.3.0.m5-v20141107-1655">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.sip_2.3.4.v20150716-1217.jar" id="org.restlet.ext.sip" version="2.3.4.v20150716-1217">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.example_2.3.2.v20150501-1520.jar" id="org.restlet.example" version="2.3.2.v20150501-1520">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.html_2.3.1.v20150203-1110.jar" id="org.restlet.ext.html" version="2.3.1.v20150203-1110">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.apispark_2.3.8.v20161211-0729.jar" id="org.restlet.ext.apispark" version="2.3.8.v20161211-0729">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.rome_2.3.3.v20150621-0841.jar" id="org.restlet.ext.rome" version="2.3.3.v20150621-0841">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.wadl_2.3.4.v20150716-1217.jar" id="org.restlet.ext.wadl" version="2.3.4.v20150716-1217">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.sip_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.sip" version="2.3.0.m5-v20141107-1655">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.javamail_2.3.11.v20170928-2348.jar" id="org.restlet.ext.javamail" version="2.3.11.v20170928-2348">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxb_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.jaxb" version="2.3.0.m4-v20141031-1938">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jackson_2.3.2.v20150501-1520.jar" id="org.restlet.ext.jackson" version="2.3.2.v20150501-1520">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.fileupload_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.fileupload" version="2.3.0.rc1-v20141121-2130">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.javamail_2.3.8.v20161211-0729.jar" id="org.restlet.ext.javamail" version="2.3.8.v20161211-0729">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.fileupload_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.fileupload" version="2.3.0.snapshot-v20150625-1149">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.emf_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.emf" version="2.3.0.m5-v20141107-1655">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.servlet_2.3.3.v20150621-0841.jar" id="org.restlet.ext.servlet" version="2.3.3.v20150621-0841">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.json_2.3.3.v20150621-0841.jar" id="org.restlet.ext.json" version="2.3.3.v20150621-0841">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.httpclient_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.httpclient" version="2.3.0.rc1-v20141121-2130">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.raml_2.3.4.v20150716-1217.jar" id="org.restlet.ext.raml" version="2.3.4.v20150716-1217">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxb_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.jaxb" version="2.3.0.snapshot-v20150625-1149">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.freemarker_2.3.3.v20150621-0841.jar" id="org.restlet.ext.freemarker" version="2.3.3.v20150621-0841">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.html_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.html" version="2.3.0.m5-v20141107-1655">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.nio_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.nio" version="2.3.0.m1-v20140327-1722">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.sdc_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.sdc" version="2.3.0.m2-v20140506-1156">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.xstream_2.3.4.v20150716-1217.jar" id="org.restlet.ext.xstream" version="2.3.4.v20150716-1217">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.sdc_2.3.12.v20171002-1310.jar" id="org.restlet.ext.sdc" version="2.3.12.v20171002-1310">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.jaas_2.3.9.v20161220-1054.jar" id="org.restlet.ext.jaas" version="2.3.9.v20161220-1054">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.sdc_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.sdc" version="2.3.0.m1-v20140327-1722">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.guice_2.3.4.v20150716-1217.jar" id="org.restlet.ext.guice" version="2.3.4.v20150716-1217">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.nio_2.3.3.v20150621-0841.jar" id="org.restlet.ext.nio" version="2.3.3.v20150621-0841">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.jackson_2.3.1.v20150203-1110.jar" id="org.restlet.ext.jackson" version="2.3.1.v20150203-1110">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.sip_2.3.6.v20160126-1627.jar" id="org.restlet.ext.sip" version="2.3.6.v20160126-1627">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.oauth_2.3.7.v20160314-1810.jar" id="org.restlet.ext.oauth" version="2.3.7.v20160314-1810">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.e4_2.3.9.v20161220-1054.jar" id="org.restlet.ext.e4" version="2.3.9.v20161220-1054">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.httpclient_2.3.12.v20171002-1310.jar" id="org.restlet.ext.httpclient" version="2.3.12.v20171002-1310">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.swagger_2.3.8.v20161211-0729.jar" id="org.restlet.ext.swagger" version="2.3.8.v20161211-0729">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.emf_2.3.1.v20150203-1110.jar" id="org.restlet.ext.emf" version="2.3.1.v20150203-1110">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.servlet_2.3.8.v20161211-0729.jar" id="org.restlet.ext.servlet" version="2.3.8.v20161211-0729">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.gwt_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.gwt" version="2.3.0.m5-v20141107-1655">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.wadl_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.wadl" version="2.3.0.m3-v20140918-1543">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.emf_2.3.10.v20170528-1503.jar" id="org.restlet.ext.emf" version="2.3.10.v20170528-1503">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.gson_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.gson" version="2.3.0.m2-v20140506-1156">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.swagger_2.3.4.v20150716-1217.jar" id="org.restlet.ext.swagger" version="2.3.4.v20150716-1217">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.e4_2.3.2.v20150501-1520.jar" id="org.restlet.ext.e4" version="2.3.2.v20150501-1520">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.html_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.html" version="2.3.0.rc1-v20141121-2130">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jetty_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.jetty" version="2.3.0.m2-v20140506-1156">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.apispark_2.3.5.v20151003-1559.jar" id="org.restlet.ext.apispark" version="2.3.5.v20151003-1559">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.jibx_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.jibx" version="2.3.0.m2-v20140506-1156">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xml_2.3.1.v20150203-1110.jar" id="org.restlet.ext.xml" version="2.3.1.v20150203-1110">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.example_2.3.12.v20171002-1310.jar" id="org.restlet.example" version="2.3.12.v20171002-1310">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.simple_2.3.6.v20160126-1627.jar" id="org.restlet.ext.simple" version="2.3.6.v20160126-1627">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.html_2.3.3.v20150621-0841.jar" id="org.restlet.ext.html" version="2.3.3.v20150621-0841">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.swagger_2.3.3.v20150621-0841.jar" id="org.restlet.ext.swagger" version="2.3.3.v20150621-0841">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.nio_2.3.1.v20150203-1110.jar" id="org.restlet.ext.nio" version="2.3.1.v20150203-1110">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.javamail_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.javamail" version="2.3.0.snapshot-v20150625-1149">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.freemarker_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.freemarker" version="2.3.0.m2-v20140506-1156">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.simple_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.simple" version="2.3.0.m1-v20140327-1722">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.lucene_2.3.11.v20170928-2348.jar" id="org.restlet.ext.lucene" version="2.3.11.v20170928-2348">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.wadl_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.wadl" version="2.3.0.m2-v20140506-1156">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.lucene_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.lucene" version="2.3.0.snapshot-v20150625-1149">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.odata_2.3.1.v20150203-1110.jar" id="org.restlet.ext.odata" version="2.3.1.v20150203-1110">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.osgi_2.3.2.v20150501-1520.jar" id="org.restlet.ext.osgi" version="2.3.2.v20150501-1520">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.crypto_2.3.2.v20150501-1520.jar" id="org.restlet.ext.crypto" version="2.3.2.v20150501-1520">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.emf_2.3.11.v20170928-2348.jar" id="org.restlet.ext.emf" version="2.3.11.v20170928-2348">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.thymeleaf_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.thymeleaf" version="2.3.0.rc2-v20141208-1748">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.e4_2.3.6.v20160126-1627.jar" id="org.restlet.ext.e4" version="2.3.6.v20160126-1627">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.gson_2.3.9.v20161220-1054.jar" id="org.restlet.ext.gson" version="2.3.9.v20161220-1054">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.gson_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.gson" version="2.3.0.rc2-v20141208-1748">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxb_2.3.12.v20171002-1310.jar" id="org.restlet.ext.jaxb" version="2.3.12.v20171002-1310">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.e4_2.3.7.v20160314-1810.jar" id="org.restlet.ext.e4" version="2.3.7.v20160314-1810">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.swagger_2.3.11.v20170928-2348.jar" id="org.restlet.ext.swagger" version="2.3.11.v20170928-2348">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxrs_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.jaxrs" version="2.3.0.rc2-v20141208-1748">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.simple_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.simple" version="2.3.0.m2-v20140506-1156">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.json_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.json" version="2.3.0.m4-v20141031-1938">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.apispark_2.3.10.v20170528-1503.jar" id="org.restlet.ext.apispark" version="2.3.10.v20170528-1503">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.raml_2.3.0.v20141217-1730.jar" id="org.restlet.ext.raml" version="2.3.0.v20141217-1730">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.jibx_2.3.12.v20171002-1310.jar" id="org.restlet.ext.jibx" version="2.3.12.v20171002-1310">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.nio_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.nio" version="2.3.0.rc1-v20141121-2130">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.xml_2.3.9.v20161220-1054.jar" id="org.restlet.ext.xml" version="2.3.9.v20161220-1054">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jsslutils_2.3.2.v20150501-1520.jar" id="org.restlet.ext.jsslutils" version="2.3.2.v20150501-1520">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.fileupload_2.3.12.v20171002-1310.jar" id="org.restlet.ext.fileupload" version="2.3.12.v20171002-1310">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxrs_2.3.0.v20141217-1730.jar" id="org.restlet.ext.jaxrs" version="2.3.0.v20141217-1730">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxrs_2.3.4.v20150716-1217.jar" id="org.restlet.ext.jaxrs" version="2.3.4.v20150716-1217">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.rdf_2.3.9.v20161220-1054.jar" id="org.restlet.ext.rdf" version="2.3.9.v20161220-1054">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jackson_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.jackson" version="2.3.0.rc1-v20141121-2130">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.sdc_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.sdc" version="2.3.0.rc1-v20141121-2130">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.fileupload_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.fileupload" version="2.3.0.m3-v20140918-1543">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.spring_2.3.12.v20171002-1310.jar" id="org.restlet.ext.spring" version="2.3.12.v20171002-1310">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.html_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.html" version="2.3.0.snapshot-v20150625-1149">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.sdc_2.3.4.v20150716-1217.jar" id="org.restlet.ext.sdc" version="2.3.4.v20150716-1217">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.jsslutils_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.jsslutils" version="2.3.0.m5-v20141107-1655">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.swagger_2.3.12.v20171002-1310.jar" id="org.restlet.ext.swagger" version="2.3.12.v20171002-1310">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.crypto_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.crypto" version="2.3.0.m3-v20140918-1543">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.guice_2.3.11.v20170928-2348.jar" id="org.restlet.ext.guice" version="2.3.11.v20170928-2348">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.swagger_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.swagger" version="2.3.0.m2-v20140506-1156">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.spring_2.3.10.v20170528-1503.jar" id="org.restlet.ext.spring" version="2.3.10.v20170528-1503">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jibx_2.3.9.v20161220-1054.jar" id="org.restlet.ext.jibx" version="2.3.9.v20161220-1054">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.wadl_2.3.6.v20160126-1627.jar" id="org.restlet.ext.wadl" version="2.3.6.v20160126-1627">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.odata_2.3.11.v20170928-2348.jar" id="org.restlet.ext.odata" version="2.3.11.v20170928-2348">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.lucene_2.3.6.v20160126-1627.jar" id="org.restlet.ext.lucene" version="2.3.6.v20160126-1627">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jaas_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.jaas" version="2.3.0.m3-v20140918-1543">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.rdf_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.rdf" version="2.3.0.m5-v20141107-1655">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.emf_2.3.8.v20161211-0729.jar" id="org.restlet.ext.emf" version="2.3.8.v20161211-0729">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.freemarker_2.3.10.v20170528-1503.jar" id="org.restlet.ext.freemarker" version="2.3.10.v20170528-1503">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xstream_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.xstream" version="2.3.0.m4-v20141031-1938">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.apispark_2.3.11.v20170928-2348.jar" id="org.restlet.ext.apispark" version="2.3.11.v20170928-2348">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.rome_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.rome" version="2.3.0.rc2-v20141208-1748">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.nio_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.nio" version="2.3.0.rc2-v20141208-1748">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.json_2.3.5.v20151003-1559.jar" id="org.restlet.ext.json" version="2.3.5.v20151003-1559">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxb_2.3.5.v20151003-1559.jar" id="org.restlet.ext.jaxb" version="2.3.5.v20151003-1559">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.html_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.html" version="2.3.0.m4-v20141031-1938">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.osgi_2.3.4.v20150716-1217.jar" id="org.restlet.ext.osgi" version="2.3.4.v20150716-1217">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jackson_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.jackson" version="2.3.0.m1-v20140327-1722">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jaas_2.3.5.v20151003-1559.jar" id="org.restlet.ext.jaas" version="2.3.5.v20151003-1559">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.osgi_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.osgi" version="2.3.0.m5-v20141107-1655">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.openid_2.3.4.v20150716-1217.jar" id="org.restlet.ext.openid" version="2.3.4.v20150716-1217">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.servlet_2.3.6.v20160126-1627.jar" id="org.restlet.ext.servlet" version="2.3.6.v20160126-1627">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.e4_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.e4" version="2.3.0.m4-v20141031-1938">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.crypto_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.crypto" version="2.3.0.m1-v20140327-1722">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.odata_2.3.3.v20150621-0841.jar" id="org.restlet.ext.odata" version="2.3.3.v20150621-0841">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jackson_2.3.10.v20170528-1503.jar" id="org.restlet.ext.jackson" version="2.3.10.v20170528-1503">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jetty_2.3.6.v20160126-1627.jar" id="org.restlet.ext.jetty" version="2.3.6.v20160126-1627">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.thymeleaf_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.thymeleaf" version="2.3.0.snapshot-v20150625-1149">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet_2.3.3.v20150621-0841.jar" id="org.restlet" version="2.3.3.v20150621-0841">
+   <category name="core"/>
+</feature>
+<feature url="features/org.restlet.ext.osgi_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.osgi" version="2.3.0.snapshot-v20150625-1149">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.slf4j_2.3.9.v20161220-1054.jar" id="org.restlet.ext.slf4j" version="2.3.9.v20161220-1054">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.guice_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.guice" version="2.3.0.rc2-v20141208-1748">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.gson_2.3.8.v20161211-0729.jar" id="org.restlet.ext.gson" version="2.3.8.v20161211-0729">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.slf4j_2.3.7.v20160314-1810.jar" id="org.restlet.ext.slf4j" version="2.3.7.v20160314-1810">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.json_2.3.8.v20161211-0729.jar" id="org.restlet.ext.json" version="2.3.8.v20161211-0729">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.emf_2.3.5.v20151003-1559.jar" id="org.restlet.ext.emf" version="2.3.5.v20151003-1559">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.oauth_2.3.5.v20151003-1559.jar" id="org.restlet.ext.oauth" version="2.3.5.v20151003-1559">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.example_2.3.5.v20151003-1559.jar" id="org.restlet.example" version="2.3.5.v20151003-1559">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.openid_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.openid" version="2.3.0.m3-v20140918-1543">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.swagger_2.3.10.v20170528-1503.jar" id="org.restlet.ext.swagger" version="2.3.10.v20170528-1503">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.raml_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.raml" version="2.3.0.m4-v20141031-1938">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.crypto_2.3.10.v20170528-1503.jar" id="org.restlet.ext.crypto" version="2.3.10.v20170528-1503">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.json_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.json" version="2.3.0.m1-v20140327-1722">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.emf_2.3.9.v20161220-1054.jar" id="org.restlet.ext.emf" version="2.3.9.v20161220-1054">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.json_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.json" version="2.3.0.rc1-v20141121-2130">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.xstream_2.3.5.v20151003-1559.jar" id="org.restlet.ext.xstream" version="2.3.5.v20151003-1559">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.gson_2.3.3.v20150621-0841.jar" id="org.restlet.ext.gson" version="2.3.3.v20150621-0841">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.example_2.3.1.v20150203-1110.jar" id="org.restlet.example" version="2.3.1.v20150203-1110">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.json_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.json" version="2.3.0.snapshot-v20150625-1149">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxb_2.3.1.v20150203-1110.jar" id="org.restlet.ext.jaxb" version="2.3.1.v20150203-1110">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.xstream_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.xstream" version="2.3.0.rc1-v20141121-2130">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.simple_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.simple" version="2.3.0.rc2-v20141208-1748">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.simple_2.3.9.v20161220-1054.jar" id="org.restlet.ext.simple" version="2.3.9.v20161220-1054">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.atom_2.3.12.v20171002-1310.jar" id="org.restlet.ext.atom" version="2.3.12.v20171002-1310">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.spring_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.spring" version="2.3.0.m1-v20140327-1722">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jackson_2.3.9.v20161220-1054.jar" id="org.restlet.ext.jackson" version="2.3.9.v20161220-1054">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.slf4j_2.3.0.m1-v20140327-1722.jar" id="org.restlet.ext.slf4j" version="2.3.0.m1-v20140327-1722">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.httpclient_2.3.3.v20150621-0841.jar" id="org.restlet.ext.httpclient" version="2.3.3.v20150621-0841">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.json_2.3.9.v20161220-1054.jar" id="org.restlet.ext.json" version="2.3.9.v20161220-1054">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.oauth_2.3.8.v20161211-0729.jar" id="org.restlet.ext.oauth" version="2.3.8.v20161211-0729">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.sip_2.3.2.v20150501-1520.jar" id="org.restlet.ext.sip" version="2.3.2.v20150501-1520">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.sdc_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.sdc" version="2.3.0.rc2-v20141208-1748">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.html_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.html" version="2.3.0.rc2-v20141208-1748">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jibx_2.3.1.v20150203-1110.jar" id="org.restlet.ext.jibx" version="2.3.1.v20150203-1110">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.rome_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.rome" version="2.3.0.snapshot-v20150625-1149">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.osgi_2.3.6.v20160126-1627.jar" id="org.restlet.ext.osgi" version="2.3.6.v20160126-1627">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.atom_2.3.8.v20161211-0729.jar" id="org.restlet.ext.atom" version="2.3.8.v20161211-0729">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.guice_2.3.0.snapshot-v20150625-1149.jar" id="org.restlet.ext.guice" version="2.3.0.snapshot-v20150625-1149">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.json_2.3.12.v20171002-1310.jar" id="org.restlet.ext.json" version="2.3.12.v20171002-1310">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxrs_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.jaxrs" version="2.3.0.m3-v20140918-1543">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.sdc_2.3.1.v20150203-1110.jar" id="org.restlet.ext.sdc" version="2.3.1.v20150203-1110">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.simple_2.3.7.v20160314-1810.jar" id="org.restlet.ext.simple" version="2.3.7.v20160314-1810">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.oauth_2.3.6.v20160126-1627.jar" id="org.restlet.ext.oauth" version="2.3.6.v20160126-1627">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.simple_2.3.4.v20150716-1217.jar" id="org.restlet.ext.simple" version="2.3.4.v20150716-1217">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.rdf_2.3.8.v20161211-0729.jar" id="org.restlet.ext.rdf" version="2.3.8.v20161211-0729">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet_2.3.12.v20171002-1310.jar" id="org.restlet" version="2.3.12.v20171002-1310">
+   <category name="core"/>
+</feature>
+<feature url="features/org.restlet.ext.raml_2.3.0.rc1-v20141121-2130.jar" id="org.restlet.ext.raml" version="2.3.0.rc1-v20141121-2130">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.javamail_2.3.12.v20171002-1310.jar" id="org.restlet.ext.javamail" version="2.3.12.v20171002-1310">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.json_2.3.4.v20150716-1217.jar" id="org.restlet.ext.json" version="2.3.4.v20150716-1217">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.odata_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.odata" version="2.3.0.rc2-v20141208-1748">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.javamail_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.javamail" version="2.3.0.m3-v20140918-1543">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.jibx_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.jibx" version="2.3.0.m3-v20140918-1543">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.e4_2.3.0.v20141217-1730.jar" id="org.restlet.ext.e4" version="2.3.0.v20141217-1730">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.nio_2.3.12.v20171002-1310.jar" id="org.restlet.ext.nio" version="2.3.12.v20171002-1310">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.xdb_2.3.0.m4-v20141031-1938.jar" id="org.restlet.ext.xdb" version="2.3.0.m4-v20141031-1938">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.apispark_2.3.2.v20150501-1520.jar" id="org.restlet.ext.apispark" version="2.3.2.v20150501-1520">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.apispark_2.3.0.m3-v20140918-1543.jar" id="org.restlet.ext.apispark" version="2.3.0.m3-v20140918-1543">
+   <category name="misc"/>
+</feature>
+<feature url="features/org.restlet.ext.rome_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.rome" version="2.3.0.m5-v20141107-1655">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.openid_2.3.0.m5-v20141107-1655.jar" id="org.restlet.ext.openid" version="2.3.0.m5-v20141107-1655">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jetty_2.3.8.v20161211-0729.jar" id="org.restlet.ext.jetty" version="2.3.8.v20161211-0729">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxb_2.3.0.m2-v20140506-1156.jar" id="org.restlet.ext.jaxb" version="2.3.0.m2-v20140506-1156">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxrs_2.3.2.v20150501-1520.jar" id="org.restlet.ext.jaxrs" version="2.3.2.v20150501-1520">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.thymeleaf_2.3.10.v20170528-1503.jar" id="org.restlet.ext.thymeleaf" version="2.3.10.v20170528-1503">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.jaxrs_2.3.9.v20161220-1054.jar" id="org.restlet.ext.jaxrs" version="2.3.9.v20161220-1054">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.openid_2.3.9.v20161220-1054.jar" id="org.restlet.ext.openid" version="2.3.9.v20161220-1054">
+   <category name="standard"/>
+</feature>
+<feature url="features/org.restlet.ext.jetty_2.3.0.rc2-v20141208-1748.jar" id="org.restlet.ext.jetty" version="2.3.0.rc2-v20141208-1748">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.sdc_2.3.5.v20151003-1559.jar" id="org.restlet.ext.sdc" version="2.3.5.v20151003-1559">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.velocity_2.3.4.v20150716-1217.jar" id="org.restlet.ext.velocity" version="2.3.4.v20150716-1217">
+   <category name="integration"/>
+</feature>
+<feature url="features/org.restlet.ext.javamail_2.3.6.v20160126-1627.jar" id="org.restlet.ext.javamail" version="2.3.6.v20160126-1627">
+   <category name="connector"/>
+</feature>
+<feature url="features/org.restlet.ext.xstream_2.3.11.v20170928-2348.jar" id="org.restlet.ext.xstream" version="2.3.11.v20170928-2348">
+   <category name="integration"/>
+</feature>
+<category-def name="standard" label="Standards support">
+   <description>Restlet extensions to standards.</description>
+</category-def>
+<category-def name="integration" label="Third-Party integrations">
+   <description>Integration with third-party library.</description>
+</category-def>
+<category-def name="connector" label="Pluggable connectors">
+   <description>Restlet extensions that provide connectors.</description>
+</category-def>
+<category-def name="core" label="Restlet Core">
+   <description>RESTful web framework for Java (API and engine).</description>
+</category-def>
+<category-def name="misc" label="Misc">
+   <description>Miscellaneous</description>
+</category-def>
+</site>
